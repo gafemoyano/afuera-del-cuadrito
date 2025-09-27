@@ -3,6 +3,7 @@
 # local_backend: true
 backend:
   name: git-gateway
+  branch: master
 
 #   name: github # Change to your backend (github, gitlab, gitea)
 #   repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
@@ -171,4 +172,4 @@ editor:
   preview: true
 
 # Display URL for site preview
-display_url: https://afuera-del-cuadrito.netlify.app # Replace with your site URL
+display_url: https://afueradelcuadrito.netlify.app # Replace with your site URL
