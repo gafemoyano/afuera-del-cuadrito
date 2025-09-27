@@ -1,7 +1,3 @@
-[build]
-publish = "dist"
-command = "yarn build"
-
 [[headers]]
 for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
