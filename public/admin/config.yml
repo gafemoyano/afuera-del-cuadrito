@@ -1,13 +1,13 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
 # SveltiaCMS Configuration
 # Documentation: https://github.com/sveltia/sveltia-cms
 # local_backend: true
 backend:
-  name: git-gateway
-  branch: master
-
-#   name: github # Change to your backend (github, gitlab, gitea)
-#   repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
-#   branch: main # or master, depending on your default branch
+  # name: git-gateway
+  # branch: master
+  name: github # Change to your backend (github, gitlab, gitea)
+  repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
+  branch: master # or master, depending on your default branch
 
 # Media files
 media_folder: "public/images/uploads" # Where uploaded files will be stored
