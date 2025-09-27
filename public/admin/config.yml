@@ -1,14 +1,12 @@
 # SveltiaCMS Configuration
 # Documentation: https://github.com/sveltia/sveltia-cms
-
+# local_backend: true
 backend:
-  name: github # Change to your backend (github, gitlab, gitea)
-  repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
-  branch: main # or master, depending on your default branch
+  name: git-gateway
 
-# Optional: You can use the test backend for local development
-# backend:
-#   name: test
+#   name: github # Change to your backend (github, gitlab, gitea)
+#   repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
+#   branch: main # or master, depending on your default branch
 
 # Media files
 media_folder: "public/images/uploads" # Where uploaded files will be stored
