@@ -1,23 +1,19 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
-image: "/images/author.png"
+title: Soy Juliana Tits Ramirez
+meta_title: About
+description: ''
+image: /images/uploads/felipe.jpeg
 draft: false
-
 what_i_do:
-  title: "What I Do"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-  
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
-  
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
-
+    - description: Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis.
+      title: Content Writing
+    - description: Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis.
+      title: Photography
+    - description: Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis.
+      title: Web Research
+  title: What I Do
 ---
-
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Estoy haciendo un doctorado en ciencias de la exploración psicopersonalsomáticasocial.
 
 Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
