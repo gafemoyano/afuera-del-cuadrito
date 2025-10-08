@@ -2,7 +2,7 @@
 title: Mutispecies embodied dialogue posibilities
 meta_title: multispecies
 description: meta description
-date: 2025-10-08T17:24:00
+date: 2025-10-08T17:35:00
 image: /images/uploads/Toroide.webp
 categories:
   - Diálogo
@@ -53,7 +53,6 @@ But I did, and I came back to work the next day noticing the emptiness, the crav
 No, these people are too rigid, too in their heads, too attached to doing “serious work.” And they’re too busy to spend two days opening up to something this eclectic. (These are all prejudices speaking, because I never really proposed it besides informal talks with some other that participate) But probably, my prejudices are not that far from reality. I recall past colleagues from my years in this field being very reluctant to try new ways of doing things, especially if they felt too experimental.
 
 I feel trapped, I guess. Why am I in a place where I’m only using a part of the tools I know I could be engaging with—tools that could open up so many more possibilities?
-
 
 **Notes:**
 
