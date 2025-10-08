@@ -3,9 +3,9 @@ title: Un templo (y una presentación)
 meta_title: Presentación
 description: meta description
 date: 2025-10-07T11:43:00
-image: /images/uploads/1.1 salar.jpeg
+image: /images/uploads/1.2 mirror.png
 categories:
-  - Food
+  - Escritura
 authors:
   - John Doe
 tags:
@@ -14,7 +14,6 @@ tags:
 draft: false
 ---
 #### Un templo
-
 
 Me encanta cuando explorar el pasado de una palabra hace que la imagen mental cambie. La palabra templo -esa imagen común de un edificio sagrado-, viene del acto de cortar y separar un espacio dentro del bosque para que se abriera un lugar desde el cual los augures (adivinadores en la Antigua Roma), pudieran contemplar el cielo. La raíz de la palabra viene de cortar, y el espacio que se delimitaba era sagrado porque en él se podían observar las aves y ellas traían la información de los dioses.
 
