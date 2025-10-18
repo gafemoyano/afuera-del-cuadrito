@@ -6,8 +6,6 @@ date: 2022-04-06T11:56:00
 image: /images/uploads/felipe.jpeg
 categories:
   - Escritura
-authors:
-  - Mark Dinn
 tags:
   - Relato
   - Vida

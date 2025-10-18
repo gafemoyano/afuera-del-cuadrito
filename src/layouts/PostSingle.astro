@@ -9,13 +9,12 @@ import { Image } from "astro:assets";
 import { render } from "astro:content";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 
-const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await render(post);
-const { title, description, authors, categories, image, date, tags } =
-  post.data;
+const { title, description, categories, image, date, tags } = post.data;
+const formattedDate = dateFormat(date);
 ---
 
 <section class="section">
@@ -24,37 +23,14 @@ const { title, description, authors, categories, image, date, tags } =
       <div class="md:col-10 text-center">
         <h1 set:html={markdownify(title)} class="h2" />
         <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
-          <li class="mx-3">
-            {
-              allAuthors
-                .filter((author) =>
-                  authors
-                    .map((author: string) => slugify(author))
-                    .includes(slugify(author.data.title))
-                )
-                .map((author) => (
-                  <a
-                    href={`/authors/${slugify(author.id)}`}
-                    class="flex items-center hover:text-primary font-medium"
-                  >
-                    {author.data.image && (
-                      <Image
-                        src={author.data.image}
-                        alt={author.data.title}
-                        height={50}
-                        width={50}
-                        class="mr-2 h-6 w-6 rounded-full"
-                      />
-                    )}
-                    <span>{author.data.title}</span>
-                  </a>
-                ))
-            }
-          </li>
-          <li class="mx-3 flex items-center flex-wrap font-medium">
-            <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-            {dateFormat(date)}
-          </li>
+          {
+            formattedDate && (
+              <li class="mx-3 flex items-center flex-wrap font-medium">
+                <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+                {formattedDate}
+              </li>
+            )
+          }
           <li class="mx-3 flex items-center flex-wrap">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
 
@@ -80,13 +56,15 @@ const { title, description, authors, categories, image, date, tags } =
       <div class="col-12 mt-8 mb-2">
         {
           image && (
-            <Image
-              src={image}
-              height={500}
-              width={1000}
-              alt={title}
-              class="rounded-lg"
-            />
+            <div class="image-frame image-frame--wide">
+              <Image
+                src={image}
+                height={500}
+                width={1000}
+                alt={title}
+                class="image-frame__img"
+              />
+            </div>
           )
         }
       </div>
@@ -127,7 +105,7 @@ const { title, description, authors, categories, image, date, tags } =
   similarPosts.length > 0 && (
     <section class="section pt-0">
       <div class="container">
-        <h2 class="mb-8 text-center h3">Similar Posts</h2>
+        <h2 class="mb-8 text-center h3">Entradas relacionadas</h2>
         <SimilarPosts posts={similarPosts.slice(0, 3)} />
       </div>
     </section>

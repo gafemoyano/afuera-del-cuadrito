@@ -8,7 +8,7 @@ This project now includes SveltiaCMS, a modern Git-based headless CMS that serve
 
 ✅ Admin interface created at `/public/admin/`
 ✅ Configuration file configured for your content structure
-✅ Collections set up for Posts, Authors, and Pages
+✅ Collections set up for Posts and Pages
 
 ## Next Steps
 
@@ -61,19 +61,14 @@ Once configured, access your CMS at:
 1. **Blog Posts** (`/src/content/posts/`)
    - Title, meta title, description
    - Publish date, featured image
-   - Categories, authors (with relations), tags
+   - Categories and tags
    - Draft status and full markdown content
 
-2. **Authors** (`/src/content/authors/`)
-   - Name, profile image, bio
-   - Social media links
-   - About content
-
-3. **Pages** (`/src/content/pages/`)
+2. **Pages** (`/src/content/pages/`)
    - Standard pages like contact, privacy policy
    - Full markdown content with meta fields
 
-4. **Special Pages**
+3. **Special Pages**
    - About page (singleton)
 
 ### Media Management

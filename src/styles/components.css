@@ -16,6 +16,33 @@
   }
 }
 
+/* responsive image frame */
+.image-frame {
+  @apply relative block w-full overflow-hidden rounded-lg;
+  aspect-ratio: 16 / 9;
+}
+
+.image-frame--wide {
+  aspect-ratio: 2 / 1;
+}
+
+.image-frame--portrait {
+  aspect-ratio: 3 / 4;
+}
+
+.image-frame--square {
+  aspect-ratio: 1 / 1;
+}
+
+.image-frame picture,
+.image-frame img {
+  @apply h-full w-full object-cover;
+}
+
+.image-frame__img {
+  @apply h-full w-full object-cover;
+}
+
 /* image cover */
 .img-cover {
   @apply leading-none;

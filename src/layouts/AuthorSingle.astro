@@ -14,14 +14,16 @@ const { Content } = await render(author);
     <div class="mb-4 text-center md:px-24">
       {
         image && (
-          <div class="mb-8">
-            <Image
-              src={image}
-              class="mx-auto rounded-lg"
-              height={150}
-              width={150}
-              alt={title}
-            />
+          <div class="mb-8 mx-auto max-w-[150px]">
+            <div class="image-frame image-frame--square">
+              <Image
+                src={image}
+                class="image-frame__img"
+                height={150}
+                width={150}
+                alt={title}
+              />
+            </div>
           </div>
         )
       }

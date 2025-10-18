@@ -47,14 +47,6 @@ collections:
         widget: "list"
         default: ["general"]
         field: { label: "Category", name: "category", widget: "string" }
-      - label: "Authors"
-        name: "authors"
-        widget: "relation"
-        collection: "authors"
-        search_fields: ["title"]
-        display_fields: ["title"]
-        value_field: "title"
-        multiple: true
       - label: "Tags"
         name: "tags"
         widget: "list"
@@ -62,62 +54,6 @@ collections:
         field: { label: "Tag", name: "tag", widget: "string" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
       - { label: "Body", name: "body", widget: "markdown" }
-
-  # Authors
-  - name: "authors"
-    label: "Authors"
-    label_singular: "Author"
-    folder: "src/content/authors"
-    create: true
-    slug: "{{slug}}"
-    filter: { field: "title", value: "" } # Exclude index files
-    fields:
-      - { label: "Name", name: "title", widget: "string" }
-      - {
-          label: "Meta Title",
-          name: "meta_title",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Profile Image", name: "image", widget: "image" }
-      - { label: "Bio", name: "description", widget: "text" }
-      - label: "Social Links"
-        name: "social"
-        widget: "object"
-        required: false
-        fields:
-          - {
-              label: "Facebook",
-              name: "facebook",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Twitter",
-              name: "twitter",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Instagram",
-              name: "instagram",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "LinkedIn",
-              name: "linkedin",
-              widget: "string",
-              required: false,
-            }
-          - {
-              label: "Website",
-              name: "website",
-              widget: "string",
-              required: false,
-            }
-      - { label: "About", name: "body", widget: "markdown", required: false }
-
   # Pages
   - name: "pages"
     label: "Pages"

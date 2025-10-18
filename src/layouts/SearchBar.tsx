@@ -70,7 +70,7 @@ export default function SearchBar({ searchList }: Props) {
     <div className="min-h-[45vh]">
       <input
         className="form-input w-full text-center"
-        placeholder="Type here to Search posts"
+        placeholder="Escribe aquí para buscar publicaciones"
         type="text"
         name="search"
         value={inputVal}
@@ -82,11 +82,10 @@ export default function SearchBar({ searchList }: Props) {
 
       {inputVal.length > 1 && (
         <div className="my-6 text-center">
-          Found {searchResults?.length}
-          {searchResults?.length && searchResults?.length === 1
-            ? " result"
-            : " results"}{" "}
-          for '{inputVal}'
+          {searchResults?.length === 1
+            ? "Se encontró 1 resultado"
+            : `Se encontraron ${searchResults?.length ?? 0} resultados`}{" "}
+          para '{inputVal}'
         </div>
       )}
 
@@ -96,10 +95,10 @@ export default function SearchBar({ searchList }: Props) {
             {item.data.image && (
               <a
                 href={`/${item.slug}`}
-                className="rounded-lg block hover:text-primary overflow-hidden group"
+                className="image-frame group hover:text-primary"
               >
                 <img
-                  className="group-hover:scale-[1.03] transition duration-300 w-full"
+                  className="image-frame__img group-hover:scale-[1.03] transition duration-300"
                   src={item.data.image}
                   alt={item.data.title}
                   width={445}
@@ -109,10 +108,15 @@ export default function SearchBar({ searchList }: Props) {
             )}
 
             <ul className="mt-6 mb-4 flex flex-wrap items-center text-text">
-              <li className="mr-5 flex items-center flex-wrap font-medium">
-                <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-                <>{dateFormat(item.data.date)}</>
-              </li>
+              {(() => {
+                const formattedDate = dateFormat(item.data.date);
+                return formattedDate ? (
+                  <li className="mr-5 flex items-center flex-wrap font-medium">
+                    <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+                    <>{formattedDate}</>
+                  </li>
+                ) : null;
+              })()}
               <li className="mr-5 flex items-center flex-wrap">
                 <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
                 <>

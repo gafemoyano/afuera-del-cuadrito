@@ -23,19 +23,19 @@ const { title, description, meta_title, image } = entry.data;
       <h1 set:html={markdownify(title)} class="h2 page-heading" />
       <div class="row md:gx-5 gy-5">
         <div class="sm:col-5 md:col-4">
-          <p class="mb-8 text-2xl font-bold text-text-dark">Contact Info</p>
+          <p class="mb-8 text-2xl font-bold text-text-dark">Información de contacto</p>
           <ul class="flex flex-col space-y-8">
             <li>
               <div class="flex text-text-dark items-center text-xl">
                 <FaAddressCard className="mr-3 text-primary" />
-                <p class="font-semibold">Address</p>
+                <p class="font-semibold">Dirección</p>
               </div>
               <p set:html={markdownify(address)} class="mt-2 leading-5 pl-8" />
             </li>
             <li>
               <div class="flex text-text-dark items-center text-xl">
                 <FaEnvelope className="mr-3 text-primary" />
-                <p class="font-semibold">Email</p>
+                <p class="font-semibold">Correo</p>
               </div>
               <p
                 set:html={markdownify(email)}
@@ -45,7 +45,7 @@ const { title, description, meta_title, image } = entry.data;
             <li>
               <div class="flex text-text-dark items-center text-xl">
                 <FaPhoneAlt className="mr-3 text-primary" />
-                <p class="font-semibold">Phone</p>
+                <p class="font-semibold">Teléfono</p>
               </div>
               <p set:html={markdownify(phone)} class="mt-2 leading-5 pl-8" />
             </li>
@@ -59,7 +59,7 @@ const { title, description, meta_title, image } = entry.data;
           >
             <div class="lg:col-6">
               <label class="mb-2 block" for="name"
-                >Name <span class="text-red-600">*</span></label
+                >Nombre <span class="text-red-600">*</span></label
               >
               <input
                 class="form-input w-full"
@@ -70,7 +70,7 @@ const { title, description, meta_title, image } = entry.data;
             </div>
             <div class="lg:col-6">
               <label class="mb-2 block" for="email"
-                >Email <span class="text-red-600">*</span></label
+                >Correo <span class="text-red-600">*</span></label
               >
               <input
                 class="form-input w-full"
@@ -80,17 +80,17 @@ const { title, description, meta_title, image } = entry.data;
               />
             </div>
             <div class="col-12">
-              <label class="mb-2 block" for="subject">Subject</label>
+              <label class="mb-2 block" for="subject">Asunto</label>
               <input class="form-input w-full" name="subject" type="text" />
             </div>
             <div class="col-12">
               <label class="mb-2 block" for="message"
-                >Message <span class="text-red-600">*</span></label
+                >Mensaje <span class="text-red-600">*</span></label
               >
               <textarea class="form-textarea w-full" rows="4"></textarea>
             </div>
             <div class="col-12">
-              <button class="btn btn-primary mt-2">Submit Now</button>
+              <button class="btn btn-primary mt-2">Enviar</button>
             </div>
           </form>
         </div>

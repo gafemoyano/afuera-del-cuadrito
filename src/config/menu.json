@@ -1,61 +1,49 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Sobre mí",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "Páginas",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Authors",
-          "url": "/authors"
-        },
-        {
-          "name": "Categories",
+          "name": "Categorías",
           "url": "/categories"
         },
         {
-          "name": "Tags",
+          "name": "Etiquetas",
           "url": "/tags"
         },
         {
-          "name": "Elements",
+          "name": "Elementos",
           "url": "/elements"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
         }
       ]
     }
   ],
   "footer": [
     {
-      "name": "About",
+      "name": "Sobre mí",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
-      "name": "Elements",
+      "name": "Elementos",
       "url": "/elements"
-    },
-    {
-      "name": "Privacy Policy",
-      "url": "/privacy-policy"
     }
   ]
 }

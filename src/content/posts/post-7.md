@@ -6,8 +6,6 @@ date: 2025-10-08T17:35:00
 image: /images/uploads/Toroide.webp
 categories:
   - Diálogo
-authors:
-  - Mark Dinn
 tags:
   - Diálogo
 draft: false

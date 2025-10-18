@@ -3,7 +3,6 @@ title: Silencio - Thich Nhat Hahn
 meta_title: Silencio
 image: /images/uploads/Silencio.jpeg
 description: Thich Nhat Hahn era un lindo. Lo kiero mucho y quisiera haber meditado con él.
-social: null
 ---
 Escribí tres opciones distintas buscando cuál libro recomendar para estrenar esta sección. Ahora que soy estudiante de tiempo completo, he tenido el placer de devorarme lecturas y muchas de ellas me piden que las comparta para que lleguen bien lejos. Tengo una lista larga y decidí empezar por lo "sencillo": el silencio.
 
