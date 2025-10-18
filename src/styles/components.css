@@ -16,6 +16,12 @@
   }
 }
 
+.navbar-brand .logo-text {
+  font-family: 'Finger Paint', cursive;
+  @apply text-2xl font-normal text-dark;
+  letter-spacing: 0.02em;
+}
+
 /* responsive image frame */
 .image-frame {
   @apply relative block w-full overflow-hidden rounded-lg;

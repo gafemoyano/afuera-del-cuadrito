@@ -5,10 +5,10 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "200",
-    "logo_height": "34",
-    "logo_text": "Afuera del Cuadrito"
+    "logo": "",
+    "logo_width": "0",
+    "logo_height": "0",
+    "logo_text": "Afuera del cuadrito"
   },
 
   "settings": {
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Derechos de autor © 2025 Afuera del Cuadrito."
+    "copyright": "Derechos de autor © 2025 Juliana Ramírez Muñoz."
   },
 
   "contactinfo": {

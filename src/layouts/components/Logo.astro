@@ -30,10 +30,8 @@ const {
           width: logo_width.replace("px", "") + "px",
         }}
       />
-    ) : logo_text ? (
-      logo_text
     ) : (
-      title
+      <span class="logo-text">{logo_text || title}</span>
     )
   }
 </a>

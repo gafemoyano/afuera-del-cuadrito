@@ -7,8 +7,7 @@ image: /images/uploads/1.2 mirror.png
 categories:
   - Escritura
 tags:
-  - Food
-  - Gold
+  - Escritura
 draft: false
 ---
 #### Un templo
