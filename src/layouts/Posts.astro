@@ -48,23 +48,25 @@ const { className, posts, fluid } = Astro.props;
               ) : null;
             })()
           }
-          <li class="mr-5 flex items-center flex-wrap">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
+          {post.data.tags?.length ? (
+            <li class="mr-5 flex items-center flex-wrap">
+              <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
 
-            <ul>
-              {post.data.categories.map((category, i: number) => (
-                <li class="inline-block">
-                  <a
-                    href={`/categories/${slugify(category)}`}
-                    class="mr-2 hover:text-primary font-medium"
-                  >
-                    {humanize(category)}
-                    {i !== post.data.categories.length - 1 && ","}
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </li>
+              <ul>
+                {post.data.tags.map((tag, i: number) => (
+                  <li class="inline-block">
+                    <a
+                      href={`/tags/${slugify(tag)}`}
+                      class="mr-2 hover:text-primary font-medium"
+                    >
+                      {humanize(tag)}
+                      {i !== post.data.tags.length - 1 && ","}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          ) : null}
         </ul>
         <h3 class="mb-4">
           <a

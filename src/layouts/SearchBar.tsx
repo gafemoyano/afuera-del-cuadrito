@@ -34,7 +34,7 @@ export default function SearchBar({ searchList }: Props) {
   };
 
   const fuse = new Fuse(searchList, {
-    keys: ["data.title", "data.categories", "data.tags"],
+    keys: ["data.title", "data.tags"],
     includeMatches: true,
     minMatchCharLength: 2,
     threshold: 0.5,
@@ -117,24 +117,26 @@ export default function SearchBar({ searchList }: Props) {
                   </li>
                 ) : null;
               })()}
-              <li className="mr-5 flex items-center flex-wrap">
-                <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-                <>
-                  <ul>
-                    {item.data.categories.map((category: string, i: number) => (
-                      <li key={i} className="inline-block">
-                        <a
-                          href={`/categories/${slugify(category)}`}
-                          className="mr-2 hover:text-primary font-medium"
-                        >
-                          {humanize(category)}
-                          {i !== item.data.categories.length - 1 && ","}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                </>
-              </li>
+              {item.data.tags?.length ? (
+                <li className="mr-5 flex items-center flex-wrap">
+                  <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                  <>
+                    <ul>
+                      {item.data.tags.map((tag: string, i: number) => (
+                        <li key={i} className="inline-block">
+                          <a
+                            href={`/tags/${slugify(tag)}`}
+                            className="mr-2 hover:text-primary font-medium"
+                          >
+                            {humanize(tag)}
+                            {i !== item.data.tags.length - 1 && ","}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  </>
+                </li>
+              ) : null}
             </ul>
 
             <h3 className="mb-2">

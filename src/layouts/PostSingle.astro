@@ -7,13 +7,13 @@ import similerItems from "@/lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import { render } from "astro:content";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
+import { BiCalendarEdit } from "react-icons/bi";
 
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
 const { Content } = await render(post);
-const { title, description, categories, image, date, tags } = post.data;
+const { title, description, image, date, tags } = post.data;
 const formattedDate = dateFormat(date);
 ---
 
@@ -31,25 +31,6 @@ const formattedDate = dateFormat(date);
               </li>
             )
           }
-          <li class="mx-3 flex items-center flex-wrap">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
-
-            <ul>
-              {
-                categories.map((category: string, i: number) => (
-                  <li class="inline-block">
-                    <a
-                      href={`/categories/${slugify(category)}`}
-                      class="mr-2 hover:text-primary font-medium"
-                    >
-                      {humanize(category)}
-                      {i !== post.data.categories.length - 1 && ","}
-                    </a>
-                  </li>
-                ))
-              }
-            </ul>
-          </li>
         </ul>
       </div>
 

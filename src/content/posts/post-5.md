@@ -4,8 +4,6 @@ meta_title: Presentación
 description: meta description
 date: 2025-10-03T11:43:00
 image: /images/uploads/1.2 mirror.png
-categories:
-  - Escritura
 tags:
   - Escritura
 draft: false

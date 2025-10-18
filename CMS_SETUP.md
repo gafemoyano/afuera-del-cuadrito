@@ -61,7 +61,7 @@ Once configured, access your CMS at:
 1. **Blog Posts** (`/src/content/posts/`)
    - Title, meta title, description
    - Publish date, featured image
-   - Categories and tags
+   - Tags
    - Draft status and full markdown content
 
 2. **Pages** (`/src/content/pages/`)

@@ -9,27 +9,12 @@
       "url": "/about"
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
+      "name": "Etiquetas",
+      "url": "/tags"
     },
     {
-      "name": "Páginas",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categorías",
-          "url": "/categories"
-        },
-        {
-          "name": "Etiquetas",
-          "url": "/tags"
-        },
-        {
-          "name": "Elementos",
-          "url": "/elements"
-        }
-      ]
+      "name": "Contacto",
+      "url": "/contact"
     }
   ],
   "footer": [

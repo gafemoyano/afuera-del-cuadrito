@@ -4,8 +4,6 @@ meta_title: multispecies
 description: meta description
 date: 2025-10-08T17:35:00
 image: /images/uploads/Toroide.webp
-categories:
-  - Diálogo
 tags:
   - Diálogo
 draft: false

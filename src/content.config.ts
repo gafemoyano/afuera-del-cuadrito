@@ -9,15 +9,6 @@ const aboutCollection = defineCollection({
     meta_title: z.string().optional(),
     image: z.string().optional(),
     draft: z.boolean().optional(),
-    what_i_do: z.object({
-      title: z.string(),
-      items: z.array(
-        z.object({
-          title: z.string(),
-          description: z.string(),
-        }),
-      ),
-    }),
   }),
 });
 
@@ -30,8 +21,7 @@ const postsCollection = defineCollection({
     description: z.string().optional(),
     date: z.date().optional(),
     image: z.string().optional(),
-    categories: z.array(z.string()).default(["others"]),
-    tags: z.array(z.string()).default(["others"]),
+    tags: z.array(z.string()).default([]),
     draft: z.boolean().optional(),
   }),
 });

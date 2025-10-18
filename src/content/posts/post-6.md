@@ -4,8 +4,6 @@ meta_title: '?'
 description: meta description
 date: 2022-04-06T11:56:00
 image: /images/uploads/felipe.jpeg
-categories:
-  - Escritura
 tags:
   - Relato
   - Vida

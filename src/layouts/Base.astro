@@ -6,6 +6,7 @@ import { plainify } from "@/lib/utils/textConverter";
 import Footer from "@/partials/Footer.astro";
 import Header from "@/partials/Header.astro";
 import "@/styles/main.css";
+import "@fontsource/finger-paint";
 
 // font families
 const pf = theme.fonts.font_family.primary;
@@ -14,7 +15,6 @@ const sf = theme.fonts.font_family.secondary;
 const googleFontLinks = [
   pf ? `https://fonts.googleapis.com/css2?family=${pf}&display=swap` : null,
   sf ? `https://fonts.googleapis.com/css2?family=${sf}&display=swap` : null,
-  "https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap",
 ].filter((url): url is string => Boolean(url));
 
 // types for frontmatters
