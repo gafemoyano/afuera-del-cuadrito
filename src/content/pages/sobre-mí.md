@@ -1,9 +1,46 @@
 ---
-title: Sobre mí
+title: Acerca
 meta_title: ''
 description: ''
 draft: false
 ---
+**Sobre Afuera del cuadrito&#160;**
+
+_Una lucecita subversiva_
+_en tanta oscuridad crea vida_
+_implica libertad, sana heridas_
+_prende el fuego de sentirse viva_
+
+
+
+_Muchas lucesitas subversivas_
+_cambian realidades e iluminan_
+_A la libertad le dan vida_
+
+
+ 
+Afuera del cuadrito es un espacio-proyecto que busca reconectar las historias de separación y fragmentación que organizan nuestras vidas y sociedades. 
+
+Por años, siendo una persona excesivamente curiosa y buscadora, he sentido esa fragmentación en mí. No importa dónde me parara, la sensación era siempre la de estar afuera del cuadrito. 
+
+Y hoy veo que ese es precisamente mi don y que es urgente para el tiempo que vivimos.
+
+Integrarme ha sido un proceso vivo, doloroso y retador, y en este espacio-proyecto vengo a ofrecerlo para que vaya más allá de mí: para que trascienda e incluya a otras personas con quienes expandamos ondas de ideas, colaboraciones, conversaciones, reflexiones, arte, y poco a poco vayamos reescribiendo las historias en unas nuevas, de lo que ahora sé que somos: pura conexión. 
+ 
+**¿Qué vas a encontrar acá?&#160;**
+
+Todo lo que puedo ofrecer viene de lo que soy en este punto de mi camino (Sobre juliana) y para afuera del cuadrito tomará la forma de 
+
+1.     Mi escribir y mi storytelling, quizás a veces más personal y literario, y quizás a veces más ensayo reflexivo. Compartiré textos sobre qué ha sido y sigue siendo _reconectar_ para mí y por qué creo que es la tarea más urgente que tenemos como humanidad.
+
+2.     Compartir los recursos que me han permitido “ponerle los puntos a la herida”. ¡Hay tantas herramientas y materiales allí afuera para consultar, aprender, cuestionar! En mi proceso estos han sido fundamentales: lecturas, meditación, psicodélicos, oráculos y seguir el trabajo de algunos proyectos maravillosos. 
+
+3.     Reflexiones y materiales sobre el diálogo. “El mundo está muy enfrentado, polarizado, tenemos que aprender a dialogar”. Sí, estoy convencida, así como estoy convencida de lo difícil que es hacerlo. Así, que acá dedicaré una buena parte a compartir sobre este tema para agrandar el círculo de personas que se le mida a aprender a dialogar.
+
+_4.&#160;&#160;&#160;&#160;&#160;_Iniciativas para hacer red o para que recibas mi acompañamiento en tus procesos o proyectos (link). 
+
+**Sobre mí**
+
 _Un día voy a hacer todo distinto&#160;_
 _Voy a arreglar la ventana de atrás&#160;_
 _Voy a cantar las canciones sin letra&#160;_
