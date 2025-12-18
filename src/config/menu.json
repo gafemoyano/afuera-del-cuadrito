@@ -5,12 +5,16 @@
       "url": "/"
     },
     {
-      "name": "Sobre mí",
+      "name": "Acerca",
       "url": "/about"
     },
     {
-      "name": "Etiquetas",
+      "name": "Entradas",
       "url": "/tags"
+    },
+    {
+      "name": "Hacer red",
+      "url": "/hacer-red"
     },
     {
       "name": "Contacto",
@@ -19,7 +23,7 @@
   ],
   "footer": [
     {
-      "name": "Sobre mí",
+      "name": "Acerca",
       "url": "/about"
     },
     {
