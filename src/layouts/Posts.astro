@@ -2,7 +2,6 @@
 import config from "@/config/config.json";
 import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
-import { getPostUrl } from "@/lib/utils/languageHelpers";
 import { Image } from "astro:assets";
 import { FaHashtag } from "react-icons/fa";
 import type { CollectionEntry } from "astro:content";
@@ -25,10 +24,7 @@ const { className, posts, fluid } = Astro.props;
     posts.map((post, i: number) => (
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
         {post.data.image && (
-          <a
-            href={getPostUrl(post)}
-            class="image-frame group hover:text-primary"
-          >
+          <a href={`/${post.id}`} class="image-frame group hover:text-primary">
             <Image
               class="image-frame__img transition duration-300 group-hover:scale-[1.03]"
               src={post.data.image}
@@ -69,7 +65,7 @@ const { className, posts, fluid } = Astro.props;
         </ul>
         <h3 class="mb-4">
           <a
-            href={getPostUrl(post)}
+            href={`/${post.id}`}
             class="block hover:text-primary transition duration-300"
           >
             {post.data.title}
