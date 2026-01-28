@@ -3,9 +3,10 @@ title: De cuando en un diálogo para resolver conflictos, abejas, orquídeas y T
 meta_title: De cuando en un diálogo para resolver conflictos, abejas, orquídeas y Toroide tuvieron algo que decir.
 description: 'Era un taller de viernes a domingo en Tenjo, a las afueras de Bogotá. Se llamaba “Tecnologías para enfriar la tierra: Taller/performance digital multiespecie”. Por el nombre no estaba segura de qué era. Aun así, después de conocer en un cumpleaños a Bárbara, una de las personas que lo iba a dictar, me inscribí sin pensarlo.'
 date: 2026-01-28T16:21:00
-image: /images/uploads/Toroide.webp
+image: /images/uploads/IMG_1751.jpg
 tags:
   - Diálogo
+  - Multiespecie
 draft: true
 ---
 
@@ -19,7 +20,7 @@ El lugar al que llegué, [Organizmo](https://www.organizmo.org), era pura paz y
 
 ![Toroide](/images/uploads/Toroide.webp)
 
-_Imagen tomada de&#160;[Construcción Toroide — ORGANIZMO](https://www.organizmo.org/construccion-toroide)
+_Imagen tomada de [Construcción Toroide — ORGANIZMO](https://www.organizmo.org/construccion-toroide)
 
 Nos hicieron un pequeño recorrido por el terreno. Nos mostraron cultivos, senderos y cada pequeña construcción. Ninguna llamaba tanto la atención como el Toroide. Verlo aparecer provocaba una reacción casi mística, más cercana a lo que se siente que a lo que se comprende. Una presencia importante, casi sagrada. El Toroide es nada más y nada menos que la Casa del Pensamiento.
 
@@ -44,6 +45,10 @@ De esa exploración surgirían los materiales con los que luego dialogaríamos. 
 No hace falta demostrar que este pequeñísimo caso ficticio recogía la esencia —me atrevo a decir— de prácticamente todos los conflictos que podamos imaginar: los temas en los que he trabajado toda mi vida profesional, las causas más profundas en las que ustedes crean, los titulares de las noticias en cualquier lugar del planeta y las grandes preguntas que aún no logramos responder. Contenía la nuez de interminables debates de los que he sido testigo tras años trabajando en diálogo social. Para cuando fui a este taller, llevaba alrededor de medio año haciendo parte de [Valiente es Dialogar](https://valienteesdialogar.org), un espacio que desde el primer momento me había estimulado y desafiado a pensar muy a fondo una pregunta que, desde que llegó a mi vida, no me abandona: ¿cómo abordamos la diferencia?
 
 Lo que más me impactó de este taller fue el encuadre. Salíamos de la ajetreada vida de la ciudad para tomarnos el tiempo de habitar este experimento colectivo. Hacíamos espacio para salir del molde —en todo sentido—. Y algo que hoy me parece obvio, pero entonces me sorprendió profundamente: que las orquídeas, las abejas y el Toroide fueran participantes activos en la metodología y en el diálogo. Tenían voz.
+
+![](/images/uploads/IMG_1752.jpg)
+
+_Algo de lo que mandó a decir la Toroide (que ese día nos pidió llamarla en femenino)._
 
 Yo, siendo muy yo, elegí irme al lugar más lejano de todos los roles y me apunté con Lucas para ser el Toroide. Quería saber cómo sería pasar dos días explorando Organizmo desde su presencia. ¿Qué significaría intentar conectarme con la agencia de una presencia tan intangible y a la vez tan inmensa?
 
