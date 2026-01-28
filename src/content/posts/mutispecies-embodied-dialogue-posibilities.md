@@ -18,9 +18,7 @@ Me acuerdo de ver la presentación que nos compartieron y tener que releerla par
 
 El lugar al que llegué, [Organizmo](https://www.organizmo.org), era pura paz y sentido. En pleno verde, entre grandes y medianos árboles, aparecían construcciones preciosas que sugerían que uno estaba llegando a un lugar especial. Nos recibió Ana, la directora del proyecto: una mujer joven, de mirada y sonrisa agradables, con una presencia muy afín al lugar. Una arquitecta, si no recuerdo mal, que junto a un equipo de personas ha dado vida a este espacio que, vale aclarar desde el inicio, no es solo un lugar, sino un espacio vivo. Ellxs le han llamado un “Centro de Formación Regenerativa e Intercambio de Saberes Interculturales”.
 
-![Toroide](/images/uploads/Toroide.webp)
-
-_Imagen tomada de [Construcción Toroide — ORGANIZMO](https://www.organizmo.org/construccion-toroide)
+![Toroide](/images/uploads/Toroide.webp)_Imagen tomada de [Construcción Toroide — ORGANIZMO](https://www.organizmo.org/construccion-toroide)
 
 Nos hicieron un pequeño recorrido por el terreno. Nos mostraron cultivos, senderos y cada pequeña construcción. Ninguna llamaba tanto la atención como el Toroide. Verlo aparecer provocaba una reacción casi mística, más cercana a lo que se siente que a lo que se comprende. Una presencia importante, casi sagrada. El Toroide es nada más y nada menos que la Casa del Pensamiento.
 
@@ -46,9 +44,7 @@ No hace falta demostrar que este pequeñísimo caso ficticio recogía la esencia
 
 Lo que más me impactó de este taller fue el encuadre. Salíamos de la ajetreada vida de la ciudad para tomarnos el tiempo de habitar este experimento colectivo. Hacíamos espacio para salir del molde —en todo sentido—. Y algo que hoy me parece obvio, pero entonces me sorprendió profundamente: que las orquídeas, las abejas y el Toroide fueran participantes activos en la metodología y en el diálogo. Tenían voz.
 
-![](/images/uploads/IMG_1752.jpg)
-
-_Algo de lo que mandó a decir la Toroide (que ese día nos pidió llamarla en femenino)._
+![](/images/uploads/IMG_1752.jpg)_Algo de lo que mandó a decir la Toroide (que ese día nos pidió llamarla en femenino)._
 
 Yo, siendo muy yo, elegí irme al lugar más lejano de todos los roles y me apunté con Lucas para ser el Toroide. Quería saber cómo sería pasar dos días explorando Organizmo desde su presencia. ¿Qué significaría intentar conectarme con la agencia de una presencia tan intangible y a la vez tan inmensa?
 
