@@ -18,9 +18,9 @@ const tags = await getTaxonomy("posts", "tags");
             <li class="inline-block">
               <a
                 href={`/tags/${tag}`}
-                class="rounded-lg bg-light px-4 py-2 text-dark transition hover:bg-primary hover:text-white flex items-center group"
+                class="px-4 py-2 text-primary font-semibold text-xl  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
               >
-                <FaHashtag className="mr-1 text-primary group-hover:text-white transition" />
+                <FaHashtag className="mr-1 text-primary  transition" />
                 {humanize(tag || "")}
               </a>
             </li>

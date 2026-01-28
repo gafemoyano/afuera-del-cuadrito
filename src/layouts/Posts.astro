@@ -3,6 +3,7 @@ import config from "@/config/config.json";
 import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
+import { FaHashtag } from "react-icons/fa";
 import type { CollectionEntry } from "astro:content";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
 
@@ -23,10 +24,7 @@ const { className, posts, fluid } = Astro.props;
     posts.map((post, i: number) => (
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
         {post.data.image && (
-          <a
-            href={`/${post.id}`}
-            class="image-frame group hover:text-primary"
-          >
+          <a href={`/${post.id}`} class="image-frame group hover:text-primary">
             <Image
               class="image-frame__img transition duration-300 group-hover:scale-[1.03]"
               src={post.data.image}
@@ -37,17 +35,15 @@ const { className, posts, fluid } = Astro.props;
           </a>
         )}
         <ul class="mt-6 mb-4 flex flex-wrap items-center text-text">
-          {
-            (() => {
-              const formattedDate = dateFormat(post.data.date);
-              return formattedDate ? (
-                <li class="mr-5 flex items-center flex-wrap">
-                  <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
-                  {formattedDate}
-                </li>
-              ) : null;
-            })()
-          }
+          {(() => {
+            const formattedDate = dateFormat(post.data.date);
+            return formattedDate ? (
+              <li class="mr-5 flex items-center flex-wrap">
+                <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+                {formattedDate}
+              </li>
+            ) : null;
+          })()}
           {post.data.tags?.length ? (
             <li class="mr-5 flex items-center flex-wrap">
               <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
@@ -55,12 +51,12 @@ const { className, posts, fluid } = Astro.props;
               <ul>
                 {post.data.tags.map((tag, i: number) => (
                   <li class="inline-block">
-                      <a
-                        href={`/tags/${slugify(tag)}`}
-                        class="mr-2 hover:text-primary font-medium relative group"
-                      >
-                      {humanize(tag)}
-                      {i !== post.data.tags.length - 1 && ","}
+                    <a
+                      href={`/tags/${tag}`}
+                      class="px-4 py-2 text-primary font-semibold text-xl  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
+                    >
+                      <FaHashtag className="mr-1 text-primary  transition" />
+                      {humanize(tag || "")}
                     </a>
                   </li>
                 ))}
@@ -81,9 +77,9 @@ const { className, posts, fluid } = Astro.props;
             (post.body ?? "").slice(
               0,
               Number(
-                i === 0 && fluid != false ? summary_length * 2 : summary_length
-              )
-            )
+                i === 0 && fluid != false ? summary_length * 2 : summary_length,
+              ),
+            ),
           )}
           ...
         </p>

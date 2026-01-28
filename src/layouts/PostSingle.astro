@@ -9,6 +9,8 @@ import { Image } from "astro:assets";
 import { render } from "astro:content";
 import { BiCalendarEdit } from "react-icons/bi";
 
+import { FaHashtag } from "react-icons/fa";
+
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similerItems(post, posts, post.slug);
@@ -60,10 +62,11 @@ const formattedDate = dateFormat(date);
               tags.map((tag: string) => (
                 <li class="inline-block">
                   <a
-                    href={`/tags/${slugify(tag)}`}
-                    class="block rounded-lg bg-light px-4 py-2 font-semibold text-dark text-sm hover:text-primary transition duration-300"
+                    href={`/tags/${tag}`}
+                    class="px-4 py-2 text-primary font-semibold text-xl  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
                   >
-                    #{humanize(tag)}
+                    <FaHashtag className="mr-1 text-primary  transition" />
+                    {humanize(tag || "")}
                   </a>
                 </li>
               ))
