@@ -11,22 +11,20 @@ description: |-
   Racional/Creativo
   Adentro/Afuera
   Verdad/Imaginación
-image: ''
+image: /images/uploads/DSC04106.jpg
 draft: false
 ---
 
-**Acerca de Afuera del cuadrito**
-
 Este es un espacio para **reconectar** las historias de separación y fragmentación que organizan nuestras vidas y sociedades:
 
-`Humanos/Naturaleza`
-`Mente/Cuerpo`
-`Nosotrxs/Ellxs`
-`Ciencia/Espiritualidad`
-`Personal/Político`
-`Racional/Creativo`
-`Adentro/Afuera`
-`Verdad/Imaginación`
+Humanos/Naturaleza
+Mente/Cuerpo
+Nosotrxs/Ellxs
+Ciencia/Espiritualidad
+Personal/Político
+Racional/Creativo
+Adentro/Afuera
+Verdad/Imaginación
 
 Compartiré historias para meternos dentro de ella, dentro de esa rajadura, como le llamaba Gloria Anzaldúa: abrirla, habitarla, explorarla, cuestionarla y, poco a poco, transformarla.
 
