@@ -46,7 +46,7 @@ De ahí nace Afuera del Cuadrito: de la sospecha de que lo que yo he integrado y
 
 Acá encontrarás mis escritos y una que otra recomendación de ideas y voces que son faros en el momento en que nos ha tocado vivir.
 
-**Acerca de Juliana**
+**Acerca de mí (Juliana)**
 
 _Un día voy a hacer todo distinto&#160;_
 _Voy a arreglar la ventana de atrás&#160;_
@@ -71,7 +71,7 @@ Soy mis tatuajes y en especial uno: "siempre inacabada".
 
 Este texto (que escribí en 2021) hacía un preámbulo del camino hasta acá.
 
-Soy Juliana y me interesa la intersección entre las personas y las sociedades (o lo que llamaríamos las humanidades y ciencias sociales). He trabajado en construcción de paz y equidad de género en Colombia (principalmente), pero también en Ecuador y Chile, desde instituciones públicas, tercer sector y centros de investigación.
+Soy Juliana y me interesa la intersección entre las personas y las sociedades (o lo que llamaríamos las humanidades y ciencias sociales). He [trabajado](https://www.linkedin.com/in/julianaramirezm/) en construcción de paz y equidad de género en Colombia (principalmente), pero también en Ecuador y Chile, desde instituciones públicas, tercer sector y centros de investigación.
 
 En años recientes, mi trabajo se ha enfocado en diálogo. Desde 2023 [hago un doctorado](https://edwebprofiles.ed.ac.uk/profile/juliana-ramirez-munoz)[ ](https://edwebprofiles.ed.ac.uk/profile/juliana-ramirez-munoz)en la Universidad de Edimburgo, y en mi investigación exploro críticamente el diálogo y su papel para construir sociedades desde las diferentes formas de existir y ver el mundo.
 
