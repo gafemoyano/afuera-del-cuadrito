@@ -17,14 +17,24 @@ draft: false
 
 Este es un espacio para **reconectar** las historias de separación y fragmentación que organizan nuestras vidas y sociedades:
 
-Humanos/Naturaleza
-Mente/Cuerpo
-Nosotrxs/Ellxs
-Ciencia/Espiritualidad
-Personal/Político
-Racional/Creativo
-Adentro/Afuera
-Verdad/Imaginación
+<i style="text-align: center; margin: 2rem 0; font-size: 1.1em; line-height: 1.4; width: 100%; display: block;">
+  Humanos/Naturaleza
+  <br />
+  Mente/Cuerpo
+  <br />
+  Nosotrxs/Ellxs
+  <br />
+  Ciencia/Espiritualidad
+  <br />
+  Personal/Político
+  <br />
+  Racional/Creativo
+  <br />
+  Adentro/Afuera
+  <br />
+  Verdad/Imaginación
+  <br />
+</i>
 
 Compartiré historias para meternos dentro de ella, dentro de esa rajadura, como le llamaba Gloria Anzaldúa: abrirla, habitarla, explorarla, cuestionarla y, poco a poco, transformarla.
 
@@ -48,12 +58,18 @@ Acá encontrarás mis escritos y una que otra recomendación de ideas y voces qu
 
 **Acerca de mí (Juliana)**
 
-_Un día voy a hacer todo distinto&#160;_
-_Voy a arreglar la ventana de atrás&#160;_
-_Voy a cantar las canciones sin letra&#160;_
-_Y cada uno podrá imaginar&#160;_
+<p style="display: block; width: 100%; text-align: end; margin: 2rem 0; font-style: italic;">
+Un día voy a hacer todo distinto
+<br />
+Voy a arreglar la ventana de atrás
+<br />
+Voy a cantar las canciones sin letra
+<br />
+Y cada uno podrá imaginar
+<br />
+<strong>Juana Molina</strong>
 
-_Juana Molina_
+</p>
 
 _&#160;_![](/images/uploads/DSC04109.jpg)
 
