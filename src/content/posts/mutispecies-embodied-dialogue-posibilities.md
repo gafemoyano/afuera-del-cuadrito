@@ -7,7 +7,7 @@ image: /images/uploads/IMG_1751.jpg
 tags:
   - Diálogo
   - Multiespecie
-draft: true
+draft: false
 ---
 
 Era un taller de viernes a domingo en Tenjo, a las afueras de Bogotá. Se llamaba _“Tecnologías para enfriar la tierra: Taller/performance digital multiespecie”_. Por el nombre no estaba segura de qué era. Aun así, después de conocer en un cumpleaños a Bárbara, una de las personas que lo iba a dictar, me inscribí sin pensarlo.
