@@ -41,7 +41,7 @@ const { className, posts, fluid } = Astro.props;
             (() => {
               const formattedDate = dateFormat(post.data.date);
               return formattedDate ? (
-                <li class="mr-5 flex items-center flex-wrap font-medium">
+                <li class="mr-5 flex items-center flex-wrap">
                   <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
                   {formattedDate}
                 </li>
@@ -55,10 +55,10 @@ const { className, posts, fluid } = Astro.props;
               <ul>
                 {post.data.tags.map((tag, i: number) => (
                   <li class="inline-block">
-                    <a
-                      href={`/tags/${slugify(tag)}`}
-                      class="mr-2 hover:text-primary font-medium"
-                    >
+                      <a
+                        href={`/tags/${slugify(tag)}`}
+                        class="mr-2 hover:text-primary font-medium relative group"
+                      >
                       {humanize(tag)}
                       {i !== post.data.tags.length - 1 && ","}
                     </a>

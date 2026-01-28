@@ -50,7 +50,7 @@ const { posts } = Astro.props;
                   <li class="inline-block">
                     <a
                       href={`/tags/${slugify(tag)}`}
-                      class="mr-2 hover:text-primary font-medium"
+                      class="mr-2 hover:text-primary"
                     >
                       {humanize(tag)}
                       {i !== post.data.tags.length - 1 && ","}
