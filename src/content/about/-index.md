@@ -1,7 +1,16 @@
 ---
 title: Acerca
 meta_title: Acerca
-description: ''
+description: |-
+  Este es un espacio para reconectar las historias de separación y fragmentación que organizan nuestras vidas y sociedades:
+  Humanos/Naturaleza
+  Mente/Cuerpo
+  Nosotrxs/Ellxs
+  Ciencia/Espiritualidad
+  Personal/Político
+  Racional/Creativo
+  Adentro/Afuera
+  Verdad/Imaginación
 image: ''
 draft: false
 ---
@@ -31,7 +40,7 @@ El mundo que vemos es el resultado de estas separaciones y el futuro que constru
 
 \*
 
-Todo lo que puedo ofrecer viene de lo que soy. Por años, siendo una mujer buscadora y curiosa, viajera y preguntona, me encontré con las murallas del mundo como se me presentó. Reconstruir una versión que me haga más sentido ha sido un proceso retador, doloroso, pero profundamente transformador.
+Todo lo que puedo ofrecer viene de lo que soy. Por años, siendo una mujer buscadora y curiosa, viajera y preguntona, me encontré con las murallas del mundo como se me presentó. Reconstruir una versión que me haga más sentido ha sido un proceso retador, a veces doloroso, pero profundamente transformador.
 
 Hoy, leyendo titulares apocalípticos, dimensionando la gravedad de las crisis que hemos provocado, atemorizada por las formas despiadadas del poder, y seriamente confundida por los cambios que tenemos en frente, me pregunto cuál es mi lugar.
 
@@ -48,9 +57,7 @@ _Y cada uno podrá imaginar&#160;_
 
 _Juana Molina_
 
-_&#160;_
-
-\*
+_&#160;_![](/images/uploads/DSC04109.jpg)
 
 Afuera del cuadrito. Siempre me he sentido como la que está afuera del cuadrito. En un no-lugar. Sin pertenencia completa. He sido muchas versiones y ninguna del todo: economista, música, artista, feminista, viajera, artesana, lesbiana, empleada, activista. Y claro, eso me ha traído muchas preguntas, dudas, miedos e inseguridades.
 
@@ -72,4 +79,6 @@ En años recientes, mi trabajo se ha enfocado en diálogo. Desde 2023 [hago un 
 
 De formación soy economista, con posgrados en economía y en políticas públicas. Soy viajera, escritora, amante de la naturaleza y la música, facilitadora de grupos y parte de procesos de diálogo (en Colombia hago parte de [Valiente es Dialogar](https://valienteesdialogar.org)[ ]()y en el Reino Unido de un grupo de [Diálogo Bohmiano](https://www.bohmdialogue.org)). Recientemente llegaron a mi vida la meditación, la danza Contact Improvisation y [Cards 4 Life](https://paleblueperspective.com/cards-for-life), herramientas maravillosas con las que también difumino fronteras y de las que seguramente escribiré.
 
+Esta soy yo, contenta por lo que vaya a empezar desde acá.
 
+![](/images/uploads/DSC03155.jpg)
