@@ -5,11 +5,13 @@ const similerItems = (currentItem: any, allItems: any, slug: string) => {
     : [];
 
   const filterByTags = allItems.filter((item: { data: { tags: string[] } }) =>
-    tags.some((tag) => item.data.tags?.includes(tag))
+    tags.some((tag) => item.data.tags?.includes(tag)),
   );
 
   // filter by slug
-  const filterBySlug = filterByTags.filter((product) => product.slug !== slug);
+  const filterBySlug = filterByTags.filter(
+    (product: { slug: string }) => product.slug !== slug,
+  );
 
   return filterBySlug;
 };

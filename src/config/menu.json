@@ -13,26 +13,9 @@
       "url": "/tags"
     },
     {
-      "name": "Hacer red",
-      "url": "/hacer-red"
-    },
-    {
       "name": "Contacto",
       "url": "/contact"
     }
   ],
-  "footer": [
-    {
-      "name": "Acerca",
-      "url": "/about"
-    },
-    {
-      "name": "Contacto",
-      "url": "/contact"
-    },
-    {
-      "name": "Elementos",
-      "url": "/elements"
-    }
-  ]
+  "footer": []
 }

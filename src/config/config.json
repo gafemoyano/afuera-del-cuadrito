@@ -5,9 +5,9 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "",
-    "logo_width": "0",
-    "logo_height": "0",
+    "logo": "/images/logo-cropped.png",
+    "logo_width": "280",
+    "logo_height": "80",
     "logo_text": "Afuera del cuadrito"
   },
 
@@ -31,5 +31,9 @@
     "address": "Bogotá, Colombia",
     "email": "Juramirezmunoz@gmail.com",
     "phone": "+57 000 000 0000"
+  },
+  "social": {
+    "instagram": "https://instagram.com/afueradelcuadrito",
+    "linkedin": "https://linkedin.com/in/julianaramirezmunoz"
   }
 }
