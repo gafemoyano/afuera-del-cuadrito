@@ -23,15 +23,15 @@ Elegida por mamá y papá,\
 Combinación de vibraciones y movimientos musculares
 Calcificada en una idea fija y de cuánta importancia
 
-Y que al menos              
+Y que al menos
                                                     una vez
 mueva sus labios también,
 los abra, los cierre y eleve la lengua,
 la tire hacia adelante hasta que salga
 el invento de lo que ya es
 
-AAAA 
-IIIIII  
+AAAA
+IIIIII
 R EEE
 
 Que, en un mismo minuto, o dos, o tres
