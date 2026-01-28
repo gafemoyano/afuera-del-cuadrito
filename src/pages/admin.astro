@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager - Afuera del Cuadrito</title>
-    <link rel="icon" href="../favicon.png" />
-  		<title>Content Manager</title>
+    <link rel="icon" href="/favicon.png" />
+    <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
 		<style is:global>
 			/* Fix cursor */
 			.app-shell p,
@@ -51,6 +51,6 @@
   </head>
   <body>
     <!-- Include SveltiaCMS - the modern successor to NetlifyCMS/DecapCMS -->
-    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script is:inline src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
   </body>
 </html>
