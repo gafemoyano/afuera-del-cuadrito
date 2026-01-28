@@ -14,8 +14,11 @@ draft: false
 ---
 
 ¡Que alguien presente al microbio!
+
 Que alguien mencione la gota de agua que tomó esta mañana
+
 O que alguien diga que lleva adentro el mismo huevo
+
 que una gallina puso en una granja cerca o lejana
 
 Que alguien abra su boca y pronuncie esa palabra repetida,
