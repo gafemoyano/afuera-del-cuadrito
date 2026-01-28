@@ -8,8 +8,9 @@ tags:
   - Relato
   - Vida
   - Naturaleza
-draft: false
+draft: true
 ---
+
 Recordar ese momento, bajando en bicicleta. El viento fuerte, su sonido protagonizando, ellas más adelante, yo sola. En mi rostro la vibración del viento. Pensé si así sentirán los pájaros. Cerré los ojos brevemente, no fuera a ser que me accidentara a esa velocidad. Sentirlo, eso quería. ¿Qué se sentirá volar?
 
 Y vino la canción que empezó a sonar en mi mente. No quería añadir sonidos externos a un paisaje sonoro completo, pero ella venía de otro lugar. Su crescendo, su drop. Sentí la vida y otra vez se me aguaron los ojos. Sentí las alas y acumulé lágrimas. Entre rezagos de lluvia y lágrimas empiscinándose bajó el llanto. Siempre lloro cuando la vida me conmueve. Es mi mejor llanto. La libertad de ir así rodando: el mar a mi izquierda y esa playa hermosa abriéndose con pequeñísimas olas de carácter escocés. A la derecha el verde del campo y las fincas como de pinturas, con sus vacas, ovejas y rollos enormes de paja.
