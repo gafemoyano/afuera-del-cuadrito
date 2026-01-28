@@ -1,69 +1,75 @@
 ---
-title: Sobre Juliana y Afuera del cuadrito
-meta_title: About
-description: Acá no sé qué tengo que poner.
-image: /images/uploads/tempImageuhY1Hq.gif
+title: Acerca
+meta_title: Acerca
+description: ''
+image: ''
 draft: false
 ---
 
-#### **Afuera del cuadrito**
+**Acerca de Afuera del cuadrito**
 
-_Un cuadrito, cuatro líneas_
-_Idea simple_
-_Y a la vez, la fuerza de la vida_
-_Buscando el camino de vuelta_
+Este es un espacio para **reconectar** las historias de separación y fragmentación que organizan nuestras vidas y sociedades:
 
-Este es un espacio en el que exploro y comparto lo que aparece.
-Es como yo, entonces tendrá un poco de todo.
-Una vasija donde pongo mis pedacitos, juego con ellos y los ofrezco.
+`Humanos/Naturaleza`
+`Mente/Cuerpo`
+`Nosotrxs/Ellxs`
+`Ciencia/Espiritualidad`
+`Personal/Político`
+`Racional/Creativo`
+`Adentro/Afuera`
+`Verdad/Imaginación`
 
-He tenido varios proyectos y en este quiero recoger un poco de todos.
-Mis escritos, selección de música, lecturas y veamos qué más salta de la imaginación a la pantalla (_¿y de la pantalla a la realidad?_)
+Compartiré historias para meternos dentro de ella, dentro de esa rajadura, como le llamaba Gloria Anzaldúa: abrirla, habitarla, explorarla, cuestionarla y, poco a poco, transformarla.
 
-Quiero que esta vasija me conecte con ustedes, ¡y haya vida en este compartir!
-Escríbanme. Propónganme. Pregúntenme. Cuestiónenme.
+El mundo que vemos es el resultado de estas separaciones y el futuro que construyamos depende de que seamos capaces de reconectarlas.
 
-**Sobre Juliana**
+¿Qué pasa cuando los límites se hacen porosos?
 
-Soy Juliana y estoy hecha de búsquedas y fragmentos.
-De historias y de materia orgánica.
+¿Qué pasa si esa rajadura, esa herida, es una promesa de posibilidad?
 
-Llevo tatuados unos pájaros que representan mi alma voladora.
-Aprendí que se viaja de muchas formas y que destinos los hay de tantos tipos.
+¿Qué mundos podemos construir cuando nos salimos del cuadrito?
 
-He sido muchas versiones, y ninguna del todo.
-Siempre me he sentido como la que está afuera del cuadrito.
-En un no-lugar.
-Sin pertenencia completa.
+\*
 
-Llevo tatuada una mujer que se teje así misma y dice: “Siempre inacabada”.
-Intento cargar conmigo preguntas para las que no encontraré respuesta.
+Todo lo que puedo ofrecer viene de lo que soy. Por años, siendo una mujer buscadora y curiosa, viajera y preguntona, me encontré con las murallas del mundo como se me presentó. Reconstruir una versión que me haga más sentido ha sido un proceso retador, doloroso, pero profundamente transformador.
 
-Soy la afortunada hija de Martha y Juan Mauricio,
-hermana de Sofía,
-y compañera de vida de Gabriela.
-Mamá gatuna de Coco y Shaki.
+Hoy, leyendo titulares apocalípticos, dimensionando la gravedad de las crisis que hemos provocado, atemorizada por las formas despiadadas del poder, y seriamente confundida por los cambios que tenemos en frente, me pregunto cuál es mi lugar.
 
-Soy mujer, escritora, amante de la vida, curiosa y creadora.
+De ahí nace Afuera del Cuadrito: de la sospecha de que lo que yo he integrado y reconectado, puede ayudar a que otros lo hagan también.
 
-Estoy rellena de [paisajes internos]()[[JR1]](applewebdata://8212F160-855B-47D3-9B75-A6A36C590BA2#_msocom_1) ,
-hechos de montañas,
-verdes de todos los tonos,
-conversaciones en _pajarístico,_
-y olores a mango, maracuyá y papaya.
+Acá encontrarás mis escritos y una que otra recomendación de ideas y voces que son faros en el momento en que nos ha tocado vivir.
 
-Y ahora lo “concreto”.
+**Acerca de Juliana**
 
-Estudié Economía y una doble Maestría en Economía y Políticas Públicas en la Universidad de los Andes. He hecho diversos cursos de escritura en Colombia y España. Llevo más de una década trabajando en construcción de paz, género y diálogo social en Colombia, Chile y Ecuador. Desde el 2022 hago parte de Valiente es Dialogar, una plataforma nacional (Colombia) que reúne a líderes del país de orillas distintas, para fortalecer una cultura de diálogo.
+_Un día voy a hacer todo distinto&#160;_
+_Voy a arreglar la ventana de atrás&#160;_
+_Voy a cantar las canciones sin letra&#160;_
+_Y cada uno podrá imaginar&#160;_
 
-Desde 2023 soy estudiante becada del Doctorado en Salud en Ciencias Sociales en la Universidad de Edimburgo (Escocia). En mi investigación realizo una mirada crítica al diálogo que pone el “yo” bajo la lupa. Exploro diversos aspectos de ese “yo”: la relación entre el ser interno y el diálogo externo, la identidad y los conflictos identitarios, así como las nociones de realidad. Exploro cómo, al profundizar en estos aspectos, el diálogo ofrece una posibilidad de transformación profundamente política, radical y espiritual, desafiando los usos que lo instrumentalizan.
+_Juana Molina_
 
-Mi investigación parte de mi propia experiencia como practicante del diálogo, para lo cual utilizo la autohistoria-teoría, un enfoque feminista y decolonial propuesto por Gloria Anzaldúa. Esta metodología no solo se enfoca en describir las transformaciones sociales que se buscan, sino también en hacerlas realidad a través de la propia forma de producir conocimiento.
+_&#160;_
 
-La pregunta que subyace a todo mi trabajo es la de diferencia, y las posibilidades de construir realidades, desde lo cotidiano y personal, y lo socio-político-espiritual que trasciendan el pensamiento binario, hacia una metafísica de la interconexión y lo plural.
+\*
 
-Me interesa trabajar con personas y grupos en proceso creativos y políticos: pensando por fuera del cuadrito para para imaginar/escribir/crear los mundos donde caben muchos mundos que aún no existen.
+Afuera del cuadrito. Siempre me he sentido como la que está afuera del cuadrito. En un no-lugar. Sin pertenencia completa. He sido muchas versiones y ninguna del todo: economista, música, artista, feminista, viajera, artesana, lesbiana, empleada, activista. Y claro, eso me ha traído muchas preguntas, dudas, miedos e inseguridades.
 
-**Links (por agregar):**
-**- Descargar CV**
-**- Página de la U**
+Me ha costado encontrar "un" lugar: mi lugar. Una gran amiga hace poco me dijo: "_al final solo queda la opción de auto construirse. Y toca hacer como las casas en Perú, que cuando las construyen y terminan un nivel, dejan la viga del que será el siguiente piso al aire, para seguir con la construcción_".
+
+Soy la viga siempre al aire. La búsqueda de una identidad desde la rareza. La mezcla inusual. Soy el cuadrado y el punto que se le escapa. Soy una tabla de excel desintegrándose en colores sobre lienzos blancos. Soy muchas cosas y el amor por compartirlas: mis viajes, historias y sus protagonistas, la curiosidad, dedicación y ambición siempre presentes, el sentir más puro hacia la música y el deseo, pocas veces consumado, de escribirlo todo. Soy la búsqueda mental de una explicación y el sentir profundo que no todo la tiene. La psiconauta, aún encubierta, en creciente reconciliación espiritual y constante enamoramiento con la naturaleza. La mujer con sus privilegios y su don de gentes como materia prima para la continua inquietud y activismo social.
+
+Soy el convencimiento instintivo del poder volcánico de las mujeres.
+Soy la pregunta sin respuesta sobre el encuentro de mis facetas.
+Soy mis tatuajes y en especial uno: "siempre inacabada".
+
+\*
+
+Este texto (que escribí en 2021) hacía un preámbulo del camino hasta acá.
+
+Soy Juliana y me interesa la intersección entre las personas y las sociedades (o lo que llamaríamos las humanidades y ciencias sociales). He trabajado en construcción de paz y equidad de género en Colombia (principalmente), pero también en Ecuador y Chile, desde instituciones públicas, tercer sector y centros de investigación.
+
+En años recientes, mi trabajo se ha enfocado en diálogo. Desde 2023 [hago un doctorado](https://edwebprofiles.ed.ac.uk/profile/juliana-ramirez-munoz)[ ](https://edwebprofiles.ed.ac.uk/profile/juliana-ramirez-munoz)en la Universidad de Edimburgo, y en mi investigación exploro críticamente el diálogo y su papel para construir sociedades desde las diferentes formas de existir y ver el mundo.
+
+De formación soy economista, con posgrados en economía y en políticas públicas. Soy viajera, escritora, amante de la naturaleza y la música, facilitadora de grupos y parte de procesos de diálogo (en Colombia hago parte de [Valiente es Dialogar](https://valienteesdialogar.org)[ ]()y en el Reino Unido de un grupo de [Diálogo Bohmiano](https://www.bohmdialogue.org)). Recientemente llegaron a mi vida la meditación, la danza Contact Improvisation y [Cards 4 Life](https://paleblueperspective.com/cards-for-life), herramientas maravillosas con las que también difumino fronteras y de las que seguramente escribiré.
+
+
