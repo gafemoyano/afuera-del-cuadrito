@@ -36,7 +36,7 @@ Este es un espacio para **reconectar** las historias de separación y fragment
   <br />
 </i>
 
-Compartiré historias para meternos dentro de ella, dentro de esa rajadura, como le llamaba Gloria Anzaldúa: abrirla, habitarla, explorarla, cuestionarla y, poco a poco, transformarla.
+Compartiré historias para meternos dentro de ese /, dentro de esa rajadura, como le llamaba Gloria Anzaldúa: abrirla, habitarla, explorarla, cuestionarla y, poco a poco, transformarla.
 
 El mundo que vemos es el resultado de estas separaciones y el futuro que construyamos depende de que seamos capaces de reconectarlas.
 
