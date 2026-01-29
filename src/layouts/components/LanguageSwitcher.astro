@@ -1,0 +1,37 @@
+---
+import type { CollectionEntry } from "astro:content";
+import {
+  getTranslation,
+  LANGUAGE_NAMES,
+  getPostUrl,
+  DEFAULT_LANGUAGE,
+} from "@/lib/utils/languageHelpers";
+import { getSinglePage } from "@/lib/contentParser.astro";
+
+interface Props {
+  currentPost: CollectionEntry<"posts">;
+}
+
+const { currentPost } = Astro.props;
+const allPosts = await getSinglePage("posts");
+const translation = getTranslation(currentPost, allPosts);
+const currentLang = currentPost.data.lang || DEFAULT_LANGUAGE;
+---
+
+{
+  translation && (
+    <div class="language-switcher flex items-center justify-center gap-2 text-sm mt-2">
+      <span class="text-gray-500">
+        {currentLang === "es"
+          ? "Also available in:"
+          : "También disponible en:"}
+      </span>
+      <a
+        href={getPostUrl(translation)}
+        class="text-primary hover:underline font-medium"
+      >
+        {LANGUAGE_NAMES[translation.data.lang || DEFAULT_LANGUAGE]}
+      </a>
+    </div>
+  )
+}

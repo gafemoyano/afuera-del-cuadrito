@@ -4,6 +4,7 @@ import {
   type CollectionEntry,
   type CollectionKey,
 } from "astro:content";
+import type { Language } from "@/lib/utils/languageHelpers";
 
 type PageData = {
   title: string;
@@ -11,6 +12,7 @@ type PageData = {
   description?: string;
   image?: string;
   draft?: boolean;
+  lang?: Language;
 };
 
 export const getSinglePage = async <C extends CollectionKey>(
@@ -26,5 +28,12 @@ export const getSinglePage = async <C extends CollectionKey>(
   });
 
   return removeDrafts;
+};
+
+export const getPostsByLang = async (
+  lang: Language
+): Promise<CollectionEntry<"posts">[]> => {
+  const allPosts = await getSinglePage("posts");
+  return allPosts.filter((post) => (post.data.lang || "es") === lang);
 };
 ---

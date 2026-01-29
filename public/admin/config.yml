@@ -48,6 +48,19 @@ collections:
         required: false
         field: { label: "Tag", name: "tag", widget: "string" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - label: "Language"
+        name: "lang"
+        widget: "select"
+        options:
+          - { label: "Español", value: "es" }
+          - { label: "English", value: "en" }
+        default: "es"
+        hint: "Select the language of this post"
+      - label: "Translation Key"
+        name: "translationKey"
+        widget: "string"
+        required: false
+        hint: "To link translations, use the same key for both Spanish and English versions (e.g., 'multispecies-dialogue')"
       - { label: "Body", name: "body", widget: "markdown" }
   # Pages
   - name: "pages"
