@@ -18,7 +18,7 @@ const { title, description, meta_title, image } = entry.data;
     <div class="container">
       <h1 set:html={markdownify(title)} class="h2 page-heading" />
       <div class="prose prose-lg max-w-none">
-        <div set:html={markdownify(entry.body)} />
+        <div set:html={markdownify(entry.body, true)} />
       </div>
     </div>
   </section>

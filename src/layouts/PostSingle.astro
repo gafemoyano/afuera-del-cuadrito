@@ -1,10 +1,12 @@
 ---
 import Share from "@/components/Share.astro";
 import SimilarPosts from "@/components/SimilarPosts.astro";
+import LanguageSwitcher from "@/components/LanguageSwitcher.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
 import dateFormat from "@/lib/utils/dateFormat";
 import similerItems from "@/lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@/lib/utils/textConverter";
+import { getPostUrl, getPostsByLanguage, DEFAULT_LANGUAGE } from "@/lib/utils/languageHelpers";
 import { Image } from "astro:assets";
 import { render } from "astro:content";
 import { BiCalendarEdit } from "react-icons/bi";
@@ -13,7 +15,10 @@ import { FaHashtag } from "react-icons/fa";
 
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
-const similarPosts = similerItems(post, posts, post.slug);
+const postLang = post.data.lang || DEFAULT_LANGUAGE;
+// Only show similar posts from the same language
+const sameLangPosts = getPostsByLanguage(posts, postLang);
+const similarPosts = similerItems(post, sameLangPosts, post.slug);
 const { Content } = await render(post);
 const { title, description, image, date, tags } = post.data;
 const formattedDate = dateFormat(date);
@@ -34,6 +39,7 @@ const formattedDate = dateFormat(date);
             )
           }
         </ul>
+        <LanguageSwitcher currentPost={post} />
       </div>
 
       <div class="col-12 mt-8 mb-2">
@@ -76,7 +82,7 @@ const formattedDate = dateFormat(date);
             className="social-share mb-4"
             title={title}
             description={description}
-            slug={post.id}
+            slug={`${postLang}/${post.id}`}
           />
         </div>
       </div>

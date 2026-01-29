@@ -1,28 +1,45 @@
 ---
 import Base from "@/layouts/Base.astro";
 import Default from "@/layouts/Default.astro";
-import PostSingle from "@/layouts/PostSingle.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
+import { getPostUrl, DEFAULT_LANGUAGE } from "@/lib/utils/languageHelpers";
 import type { CollectionEntry } from "astro:content";
 
+// Check if this is a post slug that needs redirecting
 const getPosts = (await getSinglePage("posts")) as CollectionEntry<"posts">[];
-const postsSlug = getPosts.map((item) => item.id);
+const postSlugs = new Map(getPosts.map((post) => [post.id, post]));
 
 export async function getStaticPaths() {
-  const posts = await getSinglePage("posts");
   const pages = await getSinglePage("pages");
-  const allPages = [...pages, ...posts];
+  const posts = await getSinglePage("posts");
 
-  const paths = allPages.map((page) => ({
+  // Pages routes
+  const pagePaths = pages.map((page) => ({
     params: {
       regular: page.id.replace(/\.(md|mdx)$/, ""),
     },
-    props: { page },
+    props: { page, isPost: false },
   }));
-  return paths;
+
+  // Redirect routes for old post URLs
+  const postRedirects = posts.map((post) => ({
+    params: {
+      regular: post.id,
+    },
+    props: { page: post, isPost: true },
+  }));
+
+  return [...pagePaths, ...postRedirects];
 }
 
-const { page } = Astro.props;
+const { page, isPost } = Astro.props;
+
+// Redirect old post URLs to new language-prefixed URLs
+if (isPost) {
+  const post = page as CollectionEntry<"posts">;
+  return Astro.redirect(getPostUrl(post), 301);
+}
+
 const { title, meta_title, description, image } = page.data;
 ---
 
@@ -32,11 +49,5 @@ const { title, meta_title, description, image } = page.data;
   description={description}
   image={image}
 >
-  {
-    postsSlug.includes(page.id) ? (
-      <PostSingle post={page} />
-    ) : (
-      <Default data={page} />
-    )
-  }
+  <Default data={page} />
 </Base>

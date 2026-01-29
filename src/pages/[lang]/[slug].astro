@@ -1,0 +1,38 @@
+---
+import Base from "@/layouts/Base.astro";
+import PostSingle from "@/layouts/PostSingle.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { SUPPORTED_LANGUAGES, DEFAULT_LANGUAGE } from "@/lib/utils/languageHelpers";
+
+export async function getStaticPaths() {
+  const posts = await getSinglePage("posts");
+
+  const paths = posts.map((post) => ({
+    params: {
+      lang: post.data.lang || DEFAULT_LANGUAGE,
+      slug: post.id,
+    },
+    props: { post },
+  }));
+
+  return paths;
+}
+
+const { post } = Astro.props;
+const { lang } = Astro.params;
+const { title, meta_title, description, image } = post.data;
+
+// Validate language parameter
+if (!SUPPORTED_LANGUAGES.includes(lang as any)) {
+  return Astro.redirect("/404");
+}
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <PostSingle post={post} />
+</Base>

@@ -1,6 +1,7 @@
 ---
 import dateFormat from "@/lib/utils/dateFormat";
 import { humanize, slugify } from "@/lib/utils/textConverter";
+import { getPostUrl } from "@/lib/utils/languageHelpers";
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi";
@@ -17,7 +18,7 @@ const { posts } = Astro.props;
       <div class={`col-12 sm:col-6 md:col-4 ${i === 2 && "hidden md:block"}`}>
         {post.data.image && (
           <a
-            href={`/${post.id}`}
+            href={getPostUrl(post)}
             class="image-frame group hover:text-primary"
           >
             <Image
@@ -63,7 +64,7 @@ const { posts } = Astro.props;
         </ul>
         <h3 class="h5">
           <a
-            href={`/${post.id}`}
+            href={getPostUrl(post)}
             class="block hover:text-primary transition duration-300"
           >
             {post.data.title}
