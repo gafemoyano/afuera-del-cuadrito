@@ -61,7 +61,9 @@ el hidrógeno
 el sol
 la onda
 la luz
-La córnea
+
+
+la córnea
 la retina
 el nervio
 y la imaginación
