@@ -43,7 +43,7 @@ los abra, los cierre y eleve la lengua,
 
 la tire hacia adelante hasta que salga
 
-el invento de lo que ya es
+el invento de lo que ya es:
 
 AAAA
 IIIIII
@@ -61,11 +61,10 @@ el hidrógeno
 el sol
 la onda
 la luz
-la sensación
-el sistema simpático
-el músculo
+La córnea
+la retina
 el nervio
-la neurona
+y la imaginación
 
 Que siga con los de la noche anterior
 
