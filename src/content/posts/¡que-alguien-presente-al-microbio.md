@@ -13,7 +13,7 @@ date: 2026-01-28T17:14:00
 image: /images/uploads/C32199B1-1A0A-4A73-A6DC-5CAA45FE3C2D.JPG
 tags:
   - Poema
-draft: false
+draft: true
 lang: es
 ---
 
@@ -61,7 +61,6 @@ el hidrógeno
 el sol
 la onda
 la luz
-
 
 la córnea
 la retina
