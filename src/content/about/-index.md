@@ -10,7 +10,7 @@ description: |-
   Personal/Político
   Racional/Creativo
   Adentro/Afuera
-  Verdad/Imaginación
+  Realidad/Imaginación
 image: /images/uploads/DSC04106.jpg
 draft: false
 ---
