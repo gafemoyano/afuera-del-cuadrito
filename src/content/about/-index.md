@@ -32,7 +32,7 @@ Este es un espacio para **reconectar** las historias de separación y fragment
   <br />
   Adentro/Afuera
   <br />
-  Verdad/Imaginación
+  Realidad/Imaginación
   <br />
 </i>
 
