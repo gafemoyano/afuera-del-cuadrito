@@ -10,7 +10,7 @@ description: |-
   Personal/Político
   Racional/Creativo
   Adentro/Afuera
-  Verdad/Imaginación
+  Realidad/Imaginación
 image: /images/uploads/DSC04106.jpg
 draft: false
 lang: es
@@ -33,7 +33,7 @@ Este es un espacio para **reconectar** las historias de separación y fragment
   <br />
   Adentro/Afuera
   <br />
-  Verdad/Imaginación
+  Realidad/Imaginación
   <br />
 </i>
 
