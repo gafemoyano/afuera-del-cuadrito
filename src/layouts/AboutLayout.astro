@@ -1,0 +1,65 @@
+---
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { LANGUAGE_NAMES } from "@/lib/utils/languageHelpers";
+import type { Language } from "@/lib/utils/languageHelpers";
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import { render } from "astro:content";
+
+interface Props {
+  entry: CollectionEntry<"about">;
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const { title, meta_title, image, lang } = entry.data;
+
+const otherLang: Language = lang === "es" ? "en" : "es";
+const otherUrl = lang === "es" ? "/en/about" : "/about";
+const switchLabel =
+  lang === "es" ? "Also available in:" : "También disponible en:";
+---
+
+<Base title={title} meta_title={meta_title} image={image}>
+  <section class="section">
+    <div class="container">
+      <div class="row md:gx-4">
+        <div class="sm:col-5 md:col-4">
+          {
+            image && (
+              <div class="image-frame image-frame--portrait mb-8">
+                <Image
+                  src={image}
+                  width={295}
+                  height={395}
+                  alt={title}
+                  class="image-frame__img"
+                />
+              </div>
+            )
+          }
+        </div>
+        <div class="sm:col-7 md:col-8">
+          <h1 set:html={markdownify(title)} class="h3 mb-8" />
+
+          <div
+            class="language-switcher flex items-center gap-2 text-sm mb-6"
+          >
+            <span class="text-gray-500">{switchLabel}</span>
+            <a
+              href={otherUrl}
+              class="text-primary hover:underline font-medium"
+            >
+              {LANGUAGE_NAMES[otherLang]}
+            </a>
+          </div>
+
+          <div class="content">
+            <Content />
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

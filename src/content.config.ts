@@ -9,6 +9,7 @@ const aboutCollection = defineCollection({
     meta_title: z.string().optional(),
     image: z.string().optional(),
     draft: z.boolean().optional(),
+    lang: z.enum(["es", "en"]).default("es"),
   }),
 });
 

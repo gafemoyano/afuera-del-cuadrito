@@ -3,7 +3,7 @@ import AboutLayout from "@/layouts/AboutLayout.astro";
 import type { CollectionEntry } from "astro:content";
 import { getEntry } from "astro:content";
 
-const entry = (await getEntry("about", "-index")) as CollectionEntry<"about">;
+const entry = (await getEntry("about", "-index-en")) as CollectionEntry<"about">;
 ---
 
 <AboutLayout entry={entry} />
