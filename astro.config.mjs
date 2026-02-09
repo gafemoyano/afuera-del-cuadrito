@@ -1,5 +1,4 @@
 import mdx from "@astrojs/mdx";
-import netlify from "@astrojs/netlify";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -8,6 +7,10 @@ import { defineConfig } from "astro/config";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
 import config from "./src/config/config.json";
+
+const netlifyAdapter = process.env.NETLIFY
+  ? (await import("@astrojs/netlify")).default()
+  : undefined;
 
 let highlighter;
 async function getHighlighter() {
@@ -25,7 +28,7 @@ export default defineConfig({
     : "http://afueradelcuadrito.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
-  adapter: netlify(),
+  adapter: netlifyAdapter,
   vite: { plugins: [tailwindcss()] },
   integrations: [
     react(),
