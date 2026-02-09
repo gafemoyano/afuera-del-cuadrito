@@ -1,5 +1,5 @@
 ---
-title: About that time when, in a dialogue meant to resolve conflict, bees, orchids, and a Toroid had something to say
+title: When Bees, Orchids, and a Toroid Joined the Dialogue
 meta_title: About that time when, in a dialogue meant to resolve conflict, bees, orchids, and a Toroid had something to say
 description: 'It was a workshop that ran from Friday to Sunday in Tenjo, on the outskirts of Bogotá. It was called “Technologies to Cool the Earth: Multispecies Digital Workshop/Performance”. From the title alone, I wasn’t sure what it was about. Still, after meeting Bárbara — one of the facilitators — at a birthday party, I signed up without thinking twice.'
 date: 2026-02-09T17:19:00
