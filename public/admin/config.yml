@@ -90,7 +90,7 @@ collections:
   - name: "special_pages"
     label: "Special Pages"
     files:
-      - label: "About Page"
+      - label: "About Page (Español)"
         name: "about"
         file: "src/content/about/-index.md"
         fields:
@@ -109,6 +109,40 @@ collections:
             }
           - { label: "Image", name: "image", widget: "image", required: false }
           - { label: "Draft", name: "draft", widget: "boolean", default: false }
+          - label: "Language"
+            name: "lang"
+            widget: "select"
+            options:
+              - { label: "Español", value: "es" }
+              - { label: "English", value: "en" }
+            default: "es"
+          - { label: "Content", name: "body", widget: "markdown" }
+      - label: "About Page (English)"
+        name: "about_en"
+        file: "src/content/about/-index-en.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - {
+              label: "Meta Title",
+              name: "meta_title",
+              widget: "string",
+              required: false,
+            }
+          - {
+              label: "Description",
+              name: "description",
+              widget: "text",
+              required: false,
+            }
+          - { label: "Image", name: "image", widget: "image", required: false }
+          - { label: "Draft", name: "draft", widget: "boolean", default: false }
+          - label: "Language"
+            name: "lang"
+            widget: "select"
+            options:
+              - { label: "Español", value: "es" }
+              - { label: "English", value: "en" }
+            default: "en"
           - { label: "Content", name: "body", widget: "markdown" }
 
 # Editor settings
