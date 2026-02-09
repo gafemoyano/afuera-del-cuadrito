@@ -1,4 +1,5 @@
 import mdx from "@astrojs/mdx";
+import netlify from "@astrojs/netlify";
 import react from "@astrojs/react";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -19,9 +20,12 @@ async function getHighlighter() {
 
 // https://astro.build/config
 export default defineConfig({
-  site: config.site.base_url ? config.site.base_url : "http://afueradelcuadrito.com",
+  site: config.site.base_url
+    ? config.site.base_url
+    : "http://afueradelcuadrito.com",
   base: config.site.base_path ? config.site.base_path : "/",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
+  adapter: netlify(),
   vite: { plugins: [tailwindcss()] },
   integrations: [
     react(),

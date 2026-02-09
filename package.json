@@ -11,11 +11,13 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/mdx": "4.3.0",
+    "@astrojs/netlify": "^6.6.4",
     "@astrojs/react": "4.3.0",
     "@astrojs/rss": "4.0.11",
     "@astrojs/sitemap": "^3.4.0",
     "@fontsource/finger-paint": "^5.2.8",
     "@justinribeiro/lite-youtube": "^1.8.2",
+    "@libsql/client": "^0.17.0",
     "@tailwindcss/forms": "^0.5.10",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.7",
