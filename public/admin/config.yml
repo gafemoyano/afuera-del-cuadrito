@@ -145,6 +145,10 @@ collections:
             default: "en"
           - { label: "Content", name: "body", widget: "markdown" }
 
+# Data output settings
+output:
+  omit_empty_optional_fields: true
+
 # Editor settings
 editor:
   preview: true
