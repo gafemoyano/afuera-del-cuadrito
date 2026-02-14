@@ -1,5 +1,4 @@
 ---
-translationKey: ''
 title: When Bees, Orchids, and a Toroid Joined the Dialogue
 meta_title: About that time when, in a dialogue meant to resolve conflict, bees, orchids, and a Toroid had something to say
 description: 'It was a workshop that ran from Friday to Sunday in Tenjo, on the outskirts of Bogotá. It was called “Technologies to Cool the Earth: Multispecies Digital Workshop/Performance”. From the title alone, I wasn’t sure what it was about. Still, after meeting Bárbara — one of the facilitators — at a birthday party, I signed up without thinking twice.'
@@ -22,11 +21,11 @@ The place I arrived at, [Organizmo](https://www.organizmo.org), felt like pure 
 
 ![](/images/uploads/Toroide.webp)
 
-\*\*Image taken from \*\*[_Construcción Toroide — ORGANIZMO_](https://www.organizmo.org/construccion-toroide)
+_Image taken from _[_Construcción Toroide — ORGANIZMO_](https://www.organizmo.org/construccion-toroide)
 
 They gave us a short tour of the land, showing us crops, trails, and each small structure scattered throughout the terrain. None drew attention quite like the Toroid. Seeing it emerge provoked an almost mystical reaction — something closer to feeling than understanding. It carried an important, nearly sacred presence. The Toroid is, quite simply, _la Casa del pensamiento, _the House of Thought.
 
-On Organizmo’s [website there is a section dedicated to the Toroid](https://www.organizmo.org/construccion-toroide) [[1]](applewebdata://ECD2D06B-B6BF-437F-A177-1D59345D7BF2#*ftn1), which I encourage anyone to read because, truth be told, I feel intimidated describing it myself. What can I say without falling short? What if I say too much? Perhaps the first line is enough: _Architecture is the representation of our relationship with territory._&#160;The Toroid is an example of vernacular architecture — traditional, locally rooted, grounded in ancestral knowledge — and it is a sacred space where thinking is practiced. I remember being told that a group of knowledge keepers and&#160;_taitas\* (wise elders) had traveled from different parts of the country to ceremonially open the space. It was also there that, on the first night, we lit a fire, shared words, and began the work we had come to do.
+On Organizmo’s [website there is a section dedicated to the Toroid](https://www.organizmo.org/construccion-toroide) [[1]](applewebdata://ECD2D06B-B6BF-437F-A177-1D59345D7BF2#*ftn1), which I encourage anyone to read because, truth be told, I feel intimidated describing it myself. What can I say without falling short? What if I say too much? Perhaps the first line is enough: _Architecture is the representation of our relationship with territory._ The Toroid is an example of vernacular architecture — traditional, locally rooted, grounded in ancestral knowledge — and it is a sacred space where thinking is practiced. I remember being told that a group of knowledge keepers and _taitas\* (wise elders) had traveled from different parts of the country to ceremonially open the space. It was also there that, on the first night, we lit a fire, shared words, and began the work we had come to do.
 
 Most of us attending the workshop — around twelve people— came from cities and were in our twenties or thirties, with a few slightly older. I remember many artists, several people closely connected to ecological work, and everyone, of course, deeply interested in environmental questions. Shortly after arriving, we shared a delicious vegetarian lunch (and I must pause to say that the food was extraordinary).
 
