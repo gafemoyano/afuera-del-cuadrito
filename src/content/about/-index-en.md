@@ -68,7 +68,7 @@ I'm going to sing the songs without lyrics
 <br />
 And everyone will be able to imagine
 <br />
-<strong> _Translated lyrics of song "Un día" by Juana Molina_</strong>
+<strong> Translated lyrics of song "Un día" by Juana Molina</strong>
 
 </p>
 
