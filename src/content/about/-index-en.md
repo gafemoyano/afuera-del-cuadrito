@@ -10,7 +10,7 @@ description: |-
   Personal/Political
   Rational/Creative
   Inside/Outside
-  Truth/Imagination
+  Reality/Imagination
 image: /images/uploads/DSC04106.jpg
 draft: false
 lang: en
@@ -33,11 +33,11 @@ This is a space to **reconnect** the stories of separation and fragmentation tha
   <br />
   Inside/Outside
   <br />
-  Truth/Imagination
+  Reality/Imagination
   <br />
 </i>
 
-I will share stories to take us inside that /, inside that crack, as Gloria Anzaldua called it: to open it, inhabit it, explore it, question it, and little by little, transform it.
+I will share stories to take us inside that /, inside that _rajadura&#160;_(the wound), as Gloria Anzaldua called it: to open it, inhabit it, explore it, question it, and little by little, transform it.
 
 The world we see is the result of these separations, and the future we build depends on our ability to reconnect them.
 
@@ -49,11 +49,11 @@ What worlds can we build when we step outside the box?
 
 \*
 
-Everything I can offer comes from who I am. For years, as a woman who is a seeker and curious, a traveler and questioner, I came up against the walls of the world as it was presented to me. Rebuilding a version that makes more sense to me has been a challenging process, sometimes painful, but profoundly transformative.
+Everything I can offer comes from who I am. For years, as a inquisitive and curious woman, a traveler and questioner, I came up against the walls of the world as it was presented to me. Rebuilding a version that makes more sense to me has been a challenging process, painful at times,  but profoundly transformative.
 
 Today, reading apocalyptic headlines, grasping the gravity of the crises we have caused, frightened by the ruthless forms of power, and seriously confused by the changes ahead of us, I ask myself what my place is.
 
-That is where Afuera del Cuadrito (Outside the Box) is born: from the suspicion that what I have integrated and reconnected can help others do the same.
+That is where Afuera del Cuadrito (outside the little box) is born: from the suspicion that what I have integrated and reconnected can help others do the same.
 
 Here you will find my writings and the occasional recommendation of ideas and voices that are beacons in the times we are living through.
 
@@ -74,15 +74,15 @@ And everyone will be able to imagine
 
 _&#160;_![](/images/uploads/DSC04109.jpg)
 
-Outside the box. I have always felt like the one who is outside the box. In a non-place. Without complete belonging. I have been many versions and none completely: economist, musician, artist, feminist, traveler, artisan, lesbian, employee, activist. And of course, that has brought me many questions, doubts, fears, and insecurities.
+Outside the box. I have always felt like the one who is outside the box. In a non-place. Without complete belonging. I’ve been many versions and none of them fully: economist, musician, artist, feminist, traveler, artisan, lesbian, employee, activist. And of course, that has brought me many questions, doubts, fears, and insecurities.
 
-It has been hard for me to find "a" place: my place. A great friend recently told me: "_in the end, the only option left is to build yourself. And you have to do it like the houses in Peru, where when they build and finish one level, they leave the beam for the next floor exposed, to continue with the construction_".
+It has been hard for me to find “a” place: my place. A great friend recently told me: “in the end, the only option left is to self-construct. And you have to do it like the houses in Peru, where when they build and finish one level, they leave the beam for the next floor exposed, to continue building”.
 
-I am the beam always in the air. The search for an identity from strangeness. The unusual mix. I am the square and the point that escapes it. I am a spreadsheet disintegrating into colors on white canvases. I am many things and the love of sharing them: my travels, stories and their protagonists, the curiosity, dedication and ambition always present, the purest feeling towards music and the desire, rarely fulfilled, to write it all down. I am the mental search for an explanation and the deep feeling that not everything has one. The psychonaut, still undercover, in growing spiritual reconciliation and constant falling in love with nature. The woman with her privileges and her people skills as raw material for continuous restlessness and social activism.
+I'm the beam always exposed to the air. The search for an identity from strangeness. The unusual mix. I am the square and the point that escapes it. I'm an Excel spreadsheet disintegrating into colors on white canvases. I am many things and the love of sharing them: my travels, stories and their protagonists, mycuriosity, dedication and ambition always present, the purest feeling towards music and the desire, rarely fulfilled, to write it all down. I am the mental search for an explanation and the deep feeling that not everything has one. The psychonaut, still undercover, in growing spiritual reconciliation and constant falling in love with nature. The woman with her privileges and her people skills as raw material for continuous restlessness and social activism.
 
 I am the instinctive conviction of the volcanic power of women.
 I am the unanswered question about the meeting of my facets.
-I am my tattoos and especially one: "always unfinished".
+I am my tattoos and especially one: “always unfinished”.
 
 \*
 
@@ -92,7 +92,7 @@ I am Juliana and I am interested in the intersection between people and societie
 
 In recent years, my work has focused on dialogue. Since 2023, I have been doing [a PhD](https://edwebprofiles.ed.ac.uk/profile/juliana-ramirez-munoz) at the University of Edinburgh, and in my research I critically explore dialogue and its role in building societies from the different ways of existing and seeing the world.
 
-By training I am an economist, with postgraduate degrees in economics and public policy. I am a traveler, writer, nature and music lover, group facilitator, and part of dialogue processes (in Colombia I am part of [Valiente es Dialogar](https://valienteesdialogar.org) and in the United Kingdom of a [Bohm Dialogue](https://www.bohmdialogue.org) group). Recently, meditation, Contact Improvisation dance, and [Cards 4 Life](https://paleblueperspective.com/cards-for-life) came into my life, wonderful tools with which I also blur boundaries and about which I will surely write.
+I studied economics, and hold a Masters degrees in economics and public policy. I am a traveler, writer, nature and music lover, group facilitator, and part of dialogue processes (in Colombia I am part of [Valiente es Dialogar](https://valienteesdialogar.org) and in the United Kingdom of a [Bohm Dialogue](https://www.bohmdialogue.org) group). Recently, meditation, Contact Improvisation dance, and [Cards 4 Life](https://paleblueperspective.com/cards-for-life) came into my life, wonderful tools with which I also blur boundaries and about which I will surely write.
 
 This is me, happy about whatever is going to begin from here.
 
