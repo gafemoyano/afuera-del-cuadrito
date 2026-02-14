@@ -43,19 +43,19 @@ The world we see is the result of these separations, and the future we build dep
 
 What happens when boundaries become porous?
 
-What if that crack, that wound, is a promise of possibility?
+How is the crack, the wound, a promise of possibility?
 
-What worlds can we build when we step outside the box?
+What worlds can we build when we step outside of the box?
 
 \*
 
-Everything I can offer comes from who I am. For years, as a inquisitive and curious woman, a traveler and questioner, I came up against the walls of the world as it was presented to me. Rebuilding a version that makes more sense to me has been a challenging process, painful at times,  but profoundly transformative.
+Everything I can offer comes from who I am. For years, as an inquisitive woman, a traveler, and a questioner, I came up against the walls of the world as it was presented to me. Rebuilding a version that makes more sense has been a challenging process, painful at times,  but profoundly transformative.
 
 Today, reading apocalyptic headlines, grasping the gravity of the crises we have caused, frightened by the ruthless forms of power, and seriously confused by the changes ahead of us, I ask myself what my place is.
 
-That is where Afuera del Cuadrito (outside the little box) is born: from the suspicion that what I have integrated and reconnected can help others do the same.
+That's how Afuera del Cuadrito (outside the little box) was born: from the suspicion that my work in reconnecting can help others do the same.
 
-Here you will find my writings and the occasional recommendation of ideas and voices that are beacons in the times we are living through.
+Here you will find my writings and some suggestions of ideas, voices, and more that feel like beacons for the times we are living through.
 
 **About me (Juliana)**
 
@@ -68,7 +68,7 @@ I'm going to sing the songs without lyrics
 <br />
 And everyone will be able to imagine
 <br />
-<strong>Juana Molina</strong>
+<strong> _Translated lyrics of song "Un día" by Juana Molina_</strong>
 
 </p>
 
