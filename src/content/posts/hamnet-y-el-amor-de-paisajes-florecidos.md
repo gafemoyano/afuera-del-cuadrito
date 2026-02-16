@@ -9,7 +9,7 @@ tags:
   - Multiespecie
   - Películas
   - Tecnosolucionismo
-draft: true
+draft: false
 lang: es
 ---
 
@@ -17,7 +17,7 @@ En la escena del segundo parto de Agnes, en la película _Hamnet_ de la direct
 
 El grito en la cara de esa mujer, retorcida por los dolores de un parto que está sucediendo donde no debe ser, entre la violenta calma que intentan transmitirle quienes la retienen a la fuerza, ese grito, ¡ay! cómo me llegó a doler. Es como si en esos minutos se condensara la historia humana. Lo salvaje, lo humano, la luz y la oscuridad. Su grito es el destierro: de la tierra de la que venimos, hacia este desierto en el que seguimos y desde el cual escribo.
 
-Desierto que, como pasa ya todas las semanas, hoy duele viendo imágenes que me sobrepasan. Estos días ha sido por las [masivas inundaciones en Córdoba, Colombia](https://www.instagram.com/reel/DUg_CxQD1Ot/?igsh=dm82YnBtdGxsM3Jl), pero unos días atrás era una tormenta en algún lugar en Indonesia. Así, día a día, cambian los nombres de los lugares, y se alejan o se acercan a nombres que conocemos o recorremos. 
+Desierto que, como pasa ya todas las semanas, hoy duele viendo imágenes que me sobrepasan. Estos días ha sido por las [masivas inundaciones en Córdoba, Colombia](https://www.instagram.com/reel/DUg_CxQD1Ot/?igsh=dm82YnBtdGxsM3Jl), pero unos días atrás era una tormenta en algún lugar en Indonesia. Así, día a día, cambian los nombres de los lugares, y se alejan o se acercan a nombres que conocemos o recorremos.
 
 Me parece a veces que desperdiciamos tiempo en conversaciones que cada vez me resultan un poco más absurdas. Que si esto es o no culpa nuestra. Que si empezó este siglo o hace mucho. Que si es el capitalismo la razón de todo. Que si estamos o no a tiempo. Que si es más lo ganado o lo perdido. Y digo, un poco a la ligera, “desperdiciar” pensando en lo que podríamos estar haciendo mientras tanto, pero sé muy bien que así son los procesos, requieren tiempo. Ver requiere tiempo.
 
