@@ -31,7 +31,7 @@ Infinito. Yo recibo esa palabra y se me adhiere a la piel. La cargo mientras cam
 
 Me encuentro preguntándome cómo puede ser
 
-<p class="text-left">Cómo pueden tanta certeza y soberbia caber en cuerpos chiquititos de humanos</p>
+<p class="text-left"> Cómo pueden tanta certeza y soberbia caber en cuerpos chiquititos de humanos </p>
 
 De _algunos_ humanos cuya mente tiene su génesis en la idea irrefutable
 
