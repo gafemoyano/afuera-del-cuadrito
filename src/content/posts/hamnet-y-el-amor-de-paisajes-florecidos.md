@@ -4,6 +4,11 @@ meta_title: Hamnet y los paisajes de amor florecidos
 description: En la escena del segundo parto de Agnes, en la película Hamnet de la directora china Chloé Zhao, sus gritos de dolor se sintieron en mi cuerpo como los gritos de dolor de todas las mujeres en la historia humana, de todas nuestras ancestras, de todo lo que hemos sabido y de todo lo que se ha perdido. Sintiendo que el bebé viene en camino, Agnes se alista para ir al bosque a parir al lado de un árbol antiguo, el mismo donde tuvo a su primera hija.
 date: 2026-02-16T09:10:00
 image: /images/uploads/ftcms-8981b74e-3bb2-4d40-8b28-1994f6c09e69.webp
+tags:
+  - Mujer
+  - Multiespecie
+  - Películas
+  - Tecnosolucionismo
 draft: true
 lang: es
 ---
@@ -26,16 +31,12 @@ Infinito. Yo recibo esa palabra y se me adhiere a la piel. La cargo mientras cam
 
 Me encuentro preguntándome cómo puede ser
 
-
 Cómo pueden tanta certeza y soberbia caber en cuerpos chiquititos de humanos
 
-De _algunos_ humanos cuya mente tiene su génesis en la idea irrefutable 
-
-
+De _algunos_ humanos cuya mente tiene su génesis en la idea irrefutable
 
 de individuo
- 
- 
+
 Me esfuerzo en cultivar la curiosidad
 
 -pero confieso-
@@ -44,29 +45,28 @@ a menudo fracaso
 
 Gana la resistencia
 La impaciencia
- 
-Mi lucha interna sucede a gritos sordos 
+
+Mi lucha interna sucede a gritos sordos
 
 y entonces se me quedan esas palabras por días en la piel
 
 y me las traigo aquí a ver qué las puedo poner a hacer
- 
+
 Tengo la tarea al frente
 
 me la muestra esta resistencia
- 
-En un mundo habitado por muchos humanos 
+
+En un mundo habitado por muchos humanos
 
 Por muchos y diferentes humanos
 
 Hay unos que veo por doquier
 
-
 Como siluetas humanas cortadas
 
  en un acordeón de papel
 
-Brillantes, aplaudidos, estudiosos, 
+Brillantes, aplaudidos, estudiosos,
 
 Normalmente, por otros como él
 
@@ -77,7 +77,7 @@ Que ellos
 como yo
 
 tampoco consiguen _ver_
- 
+
 Que eso es lo que somos
 
 Ni homo _economicus_
@@ -85,14 +85,14 @@ Ni homo _economicus_
 Ni homo _Deus_
 
 Solo un poco humanos
- 
+
 Cuando el río se desborda, las vacas flotan y los niños lloran,
 
 Yo escribo preguntando
 
 Será que, al rey, al empresario y al vanidoso en el principito
- 
-¿se les asomará por un instante la posibilidad de dudar? 
+
+¿se les asomará por un instante la posibilidad de dudar?
 
 ¿sabrán cómo volver escuchar?
 
