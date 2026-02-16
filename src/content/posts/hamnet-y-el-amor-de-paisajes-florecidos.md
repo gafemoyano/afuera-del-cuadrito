@@ -29,8 +29,7 @@ Insisto: vecinos del negacionismo.
 
 Infinito. Yo recibo esa palabra y se me adhiere a la piel. La cargo mientras camino al tren, la cargo mientras escribo mi tesis, la cargo mientras reviso mi historia personal, la llevo todavía, mientras veo en mi celular los ríos desbordados, las vacas mugiendo, los niños llorando, las copas de los árboles apenas visibles. Personas corriendo a resguardarse de una tormenta que se lo está llevando todo.
 
-![](/images/uploads/Screenshot%202026-02-16%20at%206.53.59%20PM.png)
-
+![](/images/uploads/Screenshot%202026-02-16%20at%207.07.17%20PM.png)
 
 Hay palabras que todavía me salen amargas. Me cuestan, me encartan, me exponen la herida. Pienso en este espacio que he abierto y cómo lo he vendido: conectar lo roto, integrar lo que ha sido violentamente partido. Me sirven para reconocer mi propio proceso, abierto, continuo, buscando integrar lo que rechazo, pero también es mío. Una búsqueda, una promesa, un mundo que aún no ha existido.
 
