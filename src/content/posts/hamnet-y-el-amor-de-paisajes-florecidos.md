@@ -29,72 +29,8 @@ Insisto: vecinos del negacionismo.
 
 Infinito. Yo recibo esa palabra y se me adhiere a la piel. La cargo mientras camino al tren, la cargo mientras escribo mi tesis, la cargo mientras reviso mi historia personal, la llevo todavía, mientras veo en mi celular los ríos desbordados, las vacas mugiendo, los niños llorando, las copas de los árboles apenas visibles. Personas corriendo a resguardarse de una tormenta que se lo está llevando todo.
 
-Me encuentro preguntándome cómo puede ser
+![](/images/uploads/Screenshot%202026-02-16%20at%206.53.59%20PM.png)
 
-<p class="text-left"> Cómo pueden tanta certeza y soberbia caber en cuerpos chiquititos de humanos </p>
-
-De _algunos_ humanos cuya mente tiene su génesis en la idea irrefutable
-
-de individuo
-
-Me esfuerzo en cultivar la curiosidad
-
--pero confieso-
-
-a menudo fracaso
-
-Gana la resistencia
-La impaciencia
-
-Mi lucha interna sucede a gritos sordos
-
-y entonces se me quedan esas palabras por días en la piel
-
-y me las traigo aquí a ver qué las puedo poner a hacer
-
-Tengo la tarea al frente
-
-me la muestra esta resistencia
-
-En un mundo habitado por muchos humanos
-
-Por muchos y diferentes humanos
-
-Hay unos que veo por doquier
-
-Como siluetas humanas cortadas
-
- en un acordeón de papel
-
-Brillantes, aplaudidos, estudiosos,
-
-Normalmente, por otros como él
-
-No lo ven, es evidente que no lo ven,
-
-Que ellos
-
-como yo
-
-tampoco consiguen _ver_
-
-Que eso es lo que somos
-
-Ni homo _economicus_
-
-Ni homo _Deus_
-
-Solo un poco humanos
-
-Cuando el río se desborda, las vacas flotan y los niños lloran,
-
-Yo escribo preguntando
-
-Será que, al rey, al empresario y al vanidoso en el principito
-
-¿se les asomará por un instante la posibilidad de dudar?
-
-¿sabrán cómo volver escuchar?
 
 Hay palabras que todavía me salen amargas. Me cuestan, me encartan, me exponen la herida. Pienso en este espacio que he abierto y cómo lo he vendido: conectar lo roto, integrar lo que ha sido violentamente partido. Me sirven para reconocer mi propio proceso, abierto, continuo, buscando integrar lo que rechazo, pero también es mío. Una búsqueda, una promesa, un mundo que aún no ha existido.
 
