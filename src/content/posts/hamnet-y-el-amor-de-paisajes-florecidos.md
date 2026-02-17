@@ -13,7 +13,7 @@ draft: false
 lang: es
 ---
 
-**Este texto arranca con la descripción de una escena en la película _Hamnet. _No es un spoiler importante pero dejo la advertencia. En todo caso, si no han visto la película, mejor vayan a verla primero para que este texto se sienta más cerquita.**
+**Este texto arranca con la descripción de una escena en la película _Hamnet_. No es un spoiler importante pero dejo la advertencia. En todo caso, si no han visto la película, mejor vayan a verla primero para que este texto se sienta más cerquita.**
 
 En la escena del segundo parto de Agnes, en la película _Hamnet_ de la directora china Chloé Zhao, sus gritos de dolor se sintieron en mi cuerpo como los gritos de dolor de todas las mujeres en la historia humana, de todas nuestras ancestras, de todo lo que hemos sabido y de todo lo que se ha perdido. Sintiendo que el bebé viene en camino, Agnes se alista para ir al bosque a parir al lado de un árbol antiguo, el mismo donde tuvo a su primera hija. Sabe que tiene que salir a escondidas, pero en ese momento la encuentra su suegra. Una mujer religiosa que, cuando se entera de que Agnes quedó embarazada de su hijo, se horroriza porque para ella, como para todos en un pueblo de Inglaterra a finales del siglo XVI, Agnes es una bruja. Anda por el bosque, reconoce sus sonidos, le canta a las plantas, prepara pócimas, y llama con sus propios labios a un halcón que es su amigo. Por eso, cuando se da cuenta de lo que Agnes planea hacer, la detiene y, a la fuerza, ayudada por otras mujeres, la obliga a parir en la casa.
 
