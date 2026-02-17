@@ -13,6 +13,8 @@ draft: false
 lang: es
 ---
 
+**Este texto arranca con la descripción de una escena en la película _Hamnet. _No es un spoiler importante pero dejo la advertencia. En todo caso, si no han visto la película, mejor vayan a verla primero para que este texto se sienta más cerquita.**
+
 En la escena del segundo parto de Agnes, en la película _Hamnet_ de la directora china Chloé Zhao, sus gritos de dolor se sintieron en mi cuerpo como los gritos de dolor de todas las mujeres en la historia humana, de todas nuestras ancestras, de todo lo que hemos sabido y de todo lo que se ha perdido. Sintiendo que el bebé viene en camino, Agnes se alista para ir al bosque a parir al lado de un árbol antiguo, el mismo donde tuvo a su primera hija. Sabe que tiene que salir a escondidas, pero en ese momento la encuentra su suegra. Una mujer religiosa que, cuando se entera de que Agnes quedó embarazada de su hijo, se horroriza porque para ella, como para todos en un pueblo de Inglaterra a finales del siglo XVI, Agnes es una bruja. Anda por el bosque, reconoce sus sonidos, le canta a las plantas, prepara pócimas, y llama con sus propios labios a un halcón que es su amigo. Por eso, cuando se da cuenta de lo que Agnes planea hacer, la detiene y, a la fuerza, ayudada por otras mujeres, la obliga a parir en la casa.
 
 El grito en la cara de esa mujer, retorcida por los dolores de un parto que está sucediendo donde no debe ser, entre la violenta calma que intentan transmitirle quienes la retienen a la fuerza, ese grito, ¡ay! cómo me llegó a doler. Es como si en esos minutos se condensara la historia humana. Lo salvaje, lo humano, la luz y la oscuridad. Su grito es el destierro: de la tierra de la que venimos, hacia este desierto en el que seguimos y desde el cual escribo.
