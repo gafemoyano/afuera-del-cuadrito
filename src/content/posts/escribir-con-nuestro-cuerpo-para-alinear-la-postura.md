@@ -116,7 +116,7 @@ Sospecho que nuestro lado derecho nos está doliendo y que, como yo, tenemos ese
 
 Tenemos ideas tan fijas como músculos tiesos que jalonan todo: la idea del individuo, la idea del yo, la idea de progreso, la idea de la nación.
 
-Si jalonamos así al cuerpo, entonces nos toca caminar de cierta manera: con un sistema individualista, competitivo, extractivo y de fronteras. En esta postura, nos vemos obligados a caminar en una sola dirección: la de siempre querer más y solo para nosotros. 
+Si jalonamos así al cuerpo, entonces nos toca caminar de cierta manera: con un sistema individualista, competitivo, extractivo y de fronteras. En esta postura, nos vemos obligados a caminar en una sola dirección: la de siempre querer más y solo para nosotros.
 
 No se nos permite parar,
 no se nos permite acostarnos,
@@ -186,4 +186,4 @@ Para ~~mí~~ nosotrxs,
 y para que existan estas palabras,
 sus manos son más que necesarias.
 
-Nota: Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage, con este me gradué.
+Nota: Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
