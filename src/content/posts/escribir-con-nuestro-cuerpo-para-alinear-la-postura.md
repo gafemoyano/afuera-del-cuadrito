@@ -5,7 +5,7 @@ description: |-
   1. Ivan
   Me dan ganas de llorar las manos de Ivan: cansadas, valientes, persistentes, sanadoras. Me dan ganas de llorar lo injusto: que yo tenga esta hora de masaje para mí, en la que él mueve y presiona cada parte de mi cuerpo; inserta agujas, fija chupas, jala dedos, estira la piel, gira las articulaciones. Todo eso que disfruto que me hagan, mientras él —en un inglés de autodidacta recursivo, pegando sustantivos entre pocas preposiciones y adverbios— me dice que está cansado, que trabaja mucho, que su vida es work home, home work, tired, need rest.
 date: 2026-03-14T18:04:00
-image: /images/uploads/Cuerpo postur.png
+image: /images/uploads/Cuerpo postur-2.png
 tags:
   - Escritura
   - Cuerpo
@@ -49,6 +49,7 @@ El otro día hacía calor y, al despedirme, le dije, _have a nice day_ —con 
 
 Es que cuando él sale de trabajar, ya el sol —aunque siga ahí— ya no calienta.
 **&#160;**
+
 ### **2. Alinear la postura**
 
 Ivan me está ayudando a alinear la postura. Tengo el hombro derecho más arriba, tensionado, y me desajusta todo el cuerpo. He vivido así años, con un dolor en los hombros y en la base del cuello con el que ya me acostumbré a existir. Ni los estiramientos ni el yoga han sido suficientes para que se vaya; siempre vuelve.
@@ -115,7 +116,7 @@ Sospecho que nuestro lado derecho nos está doliendo y que, como yo, tenemos ese
 
 Tenemos ideas tan fijas como músculos tiesos que jalonan todo: la idea del individuo, la idea del yo, la idea de progreso, la idea de la nación.
 
-Si jalonamos así al cuerpo, entonces nos toca caminar de cierta manera: con un sistema individualista, competitivo, extractivo y de fronteras. En esta postura, nos vemos obligados a caminar en una sola dirección: la de siempre querer más y solo para nosotros.
+Si jalonamos así al cuerpo, entonces nos toca caminar de cierta manera: con un sistema individualista, competitivo, extractivo y de fronteras. En esta postura, nos vemos obligados a caminar en una sola dirección: la de siempre querer más y solo para nosotros. 
 
 No se nos permite parar,
 no se nos permite acostarnos,
@@ -135,18 +136,19 @@ de verdades que residen más allá de lo lógico
 que, como escribió Yasunari Kawabata,
 se encuentran solo al desechar las palabras.
 
-Hoy por hoy hay personas como Giuliana Furci, gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singulares y más a las relaciones; donde no hay yo, hay nosotros en acción.
+Hoy por hoy hay personas como [Giuliana Furci](https://www.resurgence.org/magazine/article6597-imagining-the-otherwise.html), gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singulares y más a las relaciones; donde no hay yo, hay nosotros en acción.
 
 Nuestro gran cuerpo, como el mío, también necesita aprender a caminar más alineado. Necesita el masaje que estira el músculo y lo suelta, y la acupuntura que introduce una aguja en la tierra de ideas tiesas.
 
 Y me aventuro a ir más allá y decir que es un cuerpo que necesita recuperar el baile auténtico, el juego y el contacto.
 
 Colgarnos como murciélagos, para ver todo a veces boca abajo.
-Acercarnos, como puercoespines en el invierno —recordando la metáfora de Arthur Schopenhauer—, dispuestos a explorar ese punto de vulnerabilidad y contacto.
+Acercarnos, como puercoespines en el invierno —recordando la [metáfora](https://philosophybreak.com/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/) de Arthur Schopenhauer—, dispuestos a explorar ese punto de vulnerabilidad y contacto.
 Arrastrarnos como serpientes, solo para recordar cómo se siente el mundo de abajo.
 
 No todo puede ser postura recta y pausa activa del trabajo.
 **&#160;**
+
 ### **3. El cuerpo que sangra**
 
 Estas palabras las gesté hace meses cuando a Gaza y a Ucrania las seguían bombardeando. Hoy también bombardean Irán y barcos pequeños y grandes en los océanos. En unos meses seguirán algunos teniendo que hacer minutos de silencio.
@@ -174,14 +176,14 @@ Pero todo lo que escribí lo borré o lo abandoné, frustrada por emociones que 
 
 Recordé entonces a Ivan, que muchos meses después sigue masajeando todos los días. Los mismos conflictos siguen. Los míos, esta sensación de esquizofrenia de que me importe tanto un mundo que siento que no tengo que padecer en mi vida llena de privilegios. Los de él —que solo los puedo imaginar desde la distancia en la que me ubico y desde la cual le miro—: que siga extrañando una tierra que es hogar, desde un consultorio de paredes angostas con una ventana que de vista se encuentra con otra.
 
-Sus manos, 
-como las de cuántos otros, 
-siguen siendo herramienta y tragedia, 
+Sus manos,
+como las de cuántos otros,
+siguen siendo herramienta y tragedia,
 fuerza y supervivencia,
 oportunidad y condena.
 
-Para ~~mí~~ nosotrxs, 
-y para que existan estas palabras, 
+Para ~~mí~~ nosotrxs,
+y para que existan estas palabras,
 sus manos son más que necesarias.
 
-Nota: Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad de collage.
+Nota: Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage, con este me gradué.
