@@ -5,7 +5,7 @@ description: |-
   1. Ivan
   Me dan ganas de llorar las manos de Ivan: cansadas, valientes, persistentes, sanadoras. Me dan ganas de llorar lo injusto: que yo tenga esta hora de masaje para mí, en la que él mueve y presiona cada parte de mi cuerpo; inserta agujas, fija chupas, jala dedos, estira la piel, gira las articulaciones. Todo eso que disfruto que me hagan, mientras él —en un inglés de autodidacta recursivo, pegando sustantivos entre pocas preposiciones y adverbios— me dice que está cansado, que trabaja mucho, que su vida es work home, home work, tired, need rest.
 date: 2026-03-14T18:04:00
-image: /images/uploads/Cuerpo postur-2.png
+image: /images/uploads/Cuerpo postur-3.png
 tags:
   - Escritura
   - Cuerpo
