@@ -9,7 +9,6 @@ image: /images/uploads/Cuerpo postur-2.png
 tags:
   - Escritura
   - Cuerpo
-  - Justicia social
   - Paradigma
 draft: false
 lang: es
@@ -19,7 +18,7 @@ lang: es
 
 Me dan ganas de llorar las manos de Ivan: cansadas, valientes, persistentes, sanadoras. Me dan ganas de llorar lo injusto: que yo tenga esta hora de masaje para mí, en la que él mueve y presiona cada parte de mi cuerpo; inserta agujas, fija chupas, jala dedos, estira la piel, gira las articulaciones. Todo eso que disfruto que me hagan, mientras él —en un inglés de autodidacta recursivo, pegando sustantivos entre pocas preposiciones y adverbios— me dice que está cansado, que trabaja mucho, que su vida es _work home, home work, tired, need rest_.
 
-Entiendo que diga que en el único día que tiene libre a la semana no le den ganas de reunirse con la comunidad de ucranianos en Glasgow: 20,000_, two four ceros_. Vamos dos citas y en ambas me habla de su tierra, siempre con el antes y el después. Cualquier pregunta la responde en dos partes:_&#160;before war, after war_.
+Entiendo que diga que en el único día que tiene libre a la semana no le den ganas de reunirse con la comunidad de ucranianos en Glasgow: 20,000, _two four ceros_. Vamos dos citas y en ambas me habla de su tierra, siempre con el antes y el después. Cualquier pregunta la responde en dos partes:_&#160;before war, after war_.
 
 Lleva tres años acá. Era el vuelo directo más barato que podían tomar con su esposa y sus dos hijos, aunque nunca hubieran escuchado el nombre de la ciudad. Dice que la vida acá está bien, pero que la gente _too much complaint_. Dice también que _this_ —y señala sus pestañas— _too long_, y alarga un brazo para mostrar una distancia como de un metro delante de la cara. Se burla —entre pocas palabras y más muecas— y yo me río y vuelvo a clavar la cabeza en el hueco de la camilla.
 
@@ -28,9 +27,7 @@ A veces pienso que habla mucho, y yo quiero relajarme en este masaje, dejar de p
 Sus manos hacen esto todo el día y siento deseos de besarlas.
 
 Me pregunta qué planes tengo para hoy.
-
 Le soy honesta: _I don’t know._
-
 _That good plan_, me dice, y se ríe.
 
 Yo, que planeo meses por adelantado, hoy decidí pasar el día en la ciudad sin planear nada. Me avergüenzo un poco, y más cuando me pregunta si mañana lo tengo _off_. Sí, lo tengo _off_, le digo, y para mis adentros pienso: ¿cómo le explico que casi siempre lo tengo _off_? Que soy estudiante de tiempo completo y me organizo como me plazca. Que en un día como hoy, sin planear y sin cargar el computador, busco espacios para soltarme en creatividad para descubrir nuevas formas de articular ideas, historias, sentimientos e imágenes que flotan como mariposas inquietas en mi mente. Que su masaje, además, me ayuda a hacer esto porque me suelta el cuerpo tenso, y es con el cuerpo con lo que escribo y creo.
@@ -47,7 +44,7 @@ El otro día hacía calor y, al despedirme, le dije, _have a nice day_ —con 
 
 Él me respondió:_&#160;No, you have a nice day_.
 
-Es que cuando él sale de trabajar, ya el sol —aunque siga ahí— ya no calienta.
+Es que cuando él sale de trabajar, ya el sol —aunque siga ahí— no calienta.
 **&#160;**
 
 ### **2. Alinear la postura**
@@ -105,9 +102,13 @@ atenta
 a ver qué crece.
 
 _I was too fragmented to sit with myself_
+
 _We are chained_
+
 _Vivir en preguntas y no en respuestas_
+
 _Too much life wasted_
+
 _#mentejaula_
 
 Hoy en la cita se me ocurrió que, así como mi cuerpo se compone de células en un continuo devenir, los humanos somos como células de un cuerpo gigante. Ese cuerpo también tiene partes que se tensionan. Según la biodescodificación y las constelaciones familiares, el lado derecho del cuerpo representa al padre: la autoridad, lo profesional, la lógica, lo material.
@@ -136,14 +137,14 @@ de verdades que residen más allá de lo lógico
 que, como escribió Yasunari Kawabata,
 se encuentran solo al desechar las palabras.
 
-Hoy por hoy hay personas como [Giuliana Furci](https://www.resurgence.org/magazine/article6597-imagining-the-otherwise.html), gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singulares y más a las relaciones; donde no hay yo, hay nosotros en acción.
+Hoy por hoy hay personas como [Giuliana Furci](https://laderasur.com/articulo/giuliana-furci-defensora-de-los-hongos-es-la-primera-chilena-en-recibir-premio-de-national-geographic/?srsltid=AfmBOoqwdoo0iUfZdxIJfoepnWJOiIcf-hvb-fZLV7rcCXxqfaNMsB-a)[1], gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singularesymás a las relaciones; donde no hay yo, hay nosotros en acción.
 
 Nuestro gran cuerpo, como el mío, también necesita aprender a caminar más alineado. Necesita el masaje que estira el músculo y lo suelta, y la acupuntura que introduce una aguja en la tierra de ideas tiesas.
 
 Y me aventuro a ir más allá y decir que es un cuerpo que necesita recuperar el baile auténtico, el juego y el contacto.
 
 Colgarnos como murciélagos, para ver todo a veces boca abajo.
-Acercarnos, como puercoespines en el invierno —recordando la [metáfora](https://philosophybreak.com/articles/porcupine-dilemma-schopenhauer-wistful-parable-on-human-connection/) de Arthur Schopenhauer—, dispuestos a explorar ese punto de vulnerabilidad y contacto.
+Acercarnos, como puercoespines en el invierno —recordando la [metáfora](https://es.wikipedia.org/wiki/Dilema_del_erizo) de Arthur Schopenhauer—, dispuestos a explorar ese punto de vulnerabilidad y contacto.
 Arrastrarnos como serpientes, solo para recordar cómo se siente el mundo de abajo.
 
 No todo puede ser postura recta y pausa activa del trabajo.
@@ -166,7 +167,7 @@ Me he puesto entonces en la idea de escribir: escribir un mundo que no conozco.
 
 Y me ha costado hacerlo, porque escribir ese mundo pasa también por escribir sobre los mundos que tienen que caer.
 
-Preparando esta entrada inicié y borré textos durante tres semanas.
+Preparando esta entrada, inicié y borré textos durante tres semanas.
 Textos donde cupieran mis alaridos rabiosos como mujer viendo las perversas noticias de Epstein y de los hombres más poderosos del mundo.
 Textos que, temerosos, acercaban las historias de Manhattan a mi país, a mi ciudad, a mi vida, a mi cuerpo y al de mis amigas. A los dolores que nos hemos compartido entre confianza y llorando, y nos hemos acompañado a sanar.
 
@@ -186,4 +187,8 @@ Para ~~mí~~ nosotrxs,
 y para que existan estas palabras,
 sus manos son más que necesarias.
 
-Nota: Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
+Notas: 
+
+Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
+
+[1] Dejó link a un perfil de Giulana Furci porque la [entrevista](https://shop.resurgence.org/current-issue) que quisiera compartir -de donde tomo la idea que referencio- tristemente no tiene acceso público. Si alguien quiere leerla, escríbame que resolvemos.
