@@ -32,9 +32,9 @@ Le soy honesta: _I don’t know._
 
 _That good plan_, me dice, y se ríe.
 
-Yo, que planeo meses por adelantado, hoy decidí pasar el día en la ciudad sin planear nada. Me avergüenzo un poco, y más cuando me pregunta si mañana lo tengo _off_. Sí, lo tengo _off_, le digo, y para mis adentros pienso: ¿cómo le explico que casi siempre lo tengo _off_? Que soy estudiante de tiempo completo y me organizo como me plazca. 
+Yo, que planeo meses por adelantado, hoy decidí pasar el día en la ciudad sin planear nada. Me avergüenzo un poco, y más cuando me pregunta si mañana lo tengo _off_. Sí, lo tengo _off_, le digo, y para mis adentros pienso: ¿cómo le explico que casi siempre lo tengo _off_? Que soy estudiante de tiempo completo y me organizo como me plazca.
 
-Que en un día como hoy, sin planear y sin cargar el computador, busco espacios para soltarme en creatividad para descubrir nuevas formas de articular ideas, historias, sentimientos e imágenes que flotan como mariposas inquietas en mi mente. 
+Que en un día como hoy, sin planear y sin cargar el computador, busco espacios para soltarme en creatividad para descubrir nuevas formas de articular ideas, historias, sentimientos e imágenes que flotan como mariposas inquietas en mi mente.
 
 Que su masaje, además, me ayuda a hacer esto porque me suelta el cuerpo tenso, y es con el cuerpo con lo que escribo y creo.
 
@@ -67,56 +67,44 @@ He sido esta persona por varios años, pero de a poquitos, disimulada y en priva
 
 Ahora es diferente.
 
-Me estoy retando y me estoy creando.
+Me estoy retando y me estoy creando. Me desconozco también. Me agrado y me agradezco. Me adelanto y me preocupo.
 
-Me desconozco también.
-Me agrado y me agradezco.
-Me adelanto y me preocupo.
-_Que no se me vaya, que no se me vaya._
-_Que no me gane el quehacer._
+_Que no se me vaya, que no se me vaya. Que no me gane el quehacer._
 
 Me gusta permitirme un día sin planes y sorprenderme de estar en este café escribiendo páginas a rienda suelta entre servilletas, pedazos de papel y al respaldo de una impresión que debería leer.
 
 Escribo por todos lados y para eso tenía que soltar las ideas fijas.
 
-Tanta doctrina del deber.
-Horarios fijos y largas horas.
-Lo que puedo, o no, ser.
-Lo que puede, o no, una investigación ser.
-Lo que puedo, o no, decir.
+Tanta doctrina del deber: horarios fijos y largas horas; lo que puedo, o no, ser; lo que puede, o no, una investigación ser; lo que puedo, o no, decir.
 
 Elimino la lista de _to do’s_ en mi tablero: lleva años, si no décadas, y nunca ha estado toda tachada.
 
 Por unos días hubo blanco, vacío, espacio.
 
-Ahora escribo frases que me mueven.
-Las tomo prestadas de amigas,
-de una canción,
-de un libro.
-A veces las invento yo.
-A veces son preguntas.
+Ahora escribo frases que me mueven. Las tomo prestadas de amigas, de una canción, de un libro. A veces las invento yo. A veces son preguntas.
 
-Me quedo con las palabras:
-las miro en las mañanas mientras me visto,
-las memorizo y las mastico mientras camino,
-las apropio,
-las desarmo,
-las reorganizo.
+Me quedo con las palabras: las miro en las mañanas mientras me visto, las memorizo y las mastico mientras camino, las apropio, las desarmo, las reorganizo.
 
 Me las meto al cuerpo
+
 y espero
+
 atenta
+
 a ver qué crece.
 
-_I was too fragmented to sit with myself_
-
-_We are chained_
-
-_Vivir en preguntas y no en respuestas_
-
-_Too much life wasted_
-
-_#mentejaula_
+<i style="text-align: center; margin: 2rem 0; font-size: 1.1em; line-height: 1.4; width: 100%; display: block;">
+  I was too fragmented to sit with myself
+  <br />
+  We are chained
+  <br />
+  Vivir en preguntas y no en respuestas
+  <br />
+  Too much life wasted
+  <br />
+ #mentejaula
+  <br />
+</i>
 
 Hoy en la cita se me ocurrió que, así como mi cuerpo se compone de células en un continuo devenir, los humanos somos como células de un cuerpo gigante. Ese cuerpo también tiene partes que se tensionan. Según la biodescodificación y las constelaciones familiares, el lado derecho del cuerpo representa al padre: la autoridad, lo profesional, la lógica, lo material.
 
