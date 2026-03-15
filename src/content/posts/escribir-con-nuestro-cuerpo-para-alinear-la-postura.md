@@ -182,13 +182,19 @@ Pero todo lo que escribí lo borré o lo abandoné, frustrada por emociones que 
 Recordé entonces a Ivan, que muchos meses después sigue masajeando todos los días. Los mismos conflictos siguen. Los míos, esta sensación de esquizofrenia de que me importe tanto un mundo que siento que no tengo que padecer en mi vida llena de privilegios. Los de él —que solo los puedo imaginar desde la distancia en la que me ubico y desde la cual le miro—: que siga extrañando una tierra que es hogar, desde un consultorio de paredes angostas con una ventana que de vista se encuentra con otra.
 
 Sus manos,
+
 como las de cuántos otros,
+
 siguen siendo herramienta y tragedia,
+
 fuerza y supervivencia,
+
 oportunidad y condena.
 
 Para ~~mí~~ nosotrxs,
+
 y para que existan estas palabras,
+
 sus manos son más que necesarias.
 
 **Notas:**
