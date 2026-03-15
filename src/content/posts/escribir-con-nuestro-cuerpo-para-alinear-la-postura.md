@@ -27,10 +27,16 @@ A veces pienso que habla mucho, y yo quiero relajarme en este masaje, dejar de p
 Sus manos hacen esto todo el día y siento deseos de besarlas.
 
 Me pregunta qué planes tengo para hoy.
+
 Le soy honesta: _I don’t know._
+
 _That good plan_, me dice, y se ríe.
 
-Yo, que planeo meses por adelantado, hoy decidí pasar el día en la ciudad sin planear nada. Me avergüenzo un poco, y más cuando me pregunta si mañana lo tengo _off_. Sí, lo tengo _off_, le digo, y para mis adentros pienso: ¿cómo le explico que casi siempre lo tengo _off_? Que soy estudiante de tiempo completo y me organizo como me plazca. Que en un día como hoy, sin planear y sin cargar el computador, busco espacios para soltarme en creatividad para descubrir nuevas formas de articular ideas, historias, sentimientos e imágenes que flotan como mariposas inquietas en mi mente. Que su masaje, además, me ayuda a hacer esto porque me suelta el cuerpo tenso, y es con el cuerpo con lo que escribo y creo.
+Yo, que planeo meses por adelantado, hoy decidí pasar el día en la ciudad sin planear nada. Me avergüenzo un poco, y más cuando me pregunta si mañana lo tengo _off_. Sí, lo tengo _off_, le digo, y para mis adentros pienso: ¿cómo le explico que casi siempre lo tengo _off_? Que soy estudiante de tiempo completo y me organizo como me plazca. 
+
+Que en un día como hoy, sin planear y sin cargar el computador, busco espacios para soltarme en creatividad para descubrir nuevas formas de articular ideas, historias, sentimientos e imágenes que flotan como mariposas inquietas en mi mente. 
+
+Que su masaje, además, me ayuda a hacer esto porque me suelta el cuerpo tenso, y es con el cuerpo con lo que escribo y creo.
 
 Paso mucho tiempo leyendo, pensando y escribiendo sobre diálogo, conflictos y paz. Habito una mente ocupada en pensar cómo cambiar este mundo, ese que empuja a algunos a huir sin siquiera tener el privilegio de parar a pensarlo. Intento trenzar los hilos entre mis ideas y la tristeza que siento por la queja aminorada, contenida, constreñida con la que Ivan se refiere a su país, a la guerra, a su vida acá, a su inglés. No se permite rabiar mucho: menciona algo de la guerra y siempre adiciona ahhh, _it is what it is_.
 
@@ -62,6 +68,7 @@ He sido esta persona por varios años, pero de a poquitos, disimulada y en priva
 Ahora es diferente.
 
 Me estoy retando y me estoy creando.
+
 Me desconozco también.
 Me agrado y me agradezco.
 Me adelanto y me preocupo.
@@ -187,7 +194,7 @@ Para ~~mí~~ nosotrxs,
 y para que existan estas palabras,
 sus manos son más que necesarias.
 
-Notas: 
+Notas:
 
 Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
 
