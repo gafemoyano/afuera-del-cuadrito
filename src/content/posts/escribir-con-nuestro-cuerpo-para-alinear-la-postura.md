@@ -83,7 +83,13 @@ Por unos días hubo blanco, vacío, espacio.
 
 Ahora escribo frases que me mueven. Las tomo prestadas de amigas, de una canción, de un libro. A veces las invento yo. A veces son preguntas.
 
-Me quedo con las palabras: las miro en las mañanas mientras me visto, las memorizo y las mastico mientras camino, las apropio, las desarmo, las reorganizo.
+Me quedo con las palabras:
+
+las miro en las mañanas mientras me visto,
+
+las memorizo y las mastico mientras camino,
+
+las apropio, las desarmo, las reorganizo.
 
 Me las meto al cuerpo
 
@@ -115,8 +121,11 @@ Tenemos ideas tan fijas como músculos tiesos que jalonan todo: la idea del indi
 Si jalonamos así al cuerpo, entonces nos toca caminar de cierta manera: con un sistema individualista, competitivo, extractivo y de fronteras. En esta postura, nos vemos obligados a caminar en una sola dirección: la de siempre querer más y solo para nosotros.
 
 No se nos permite parar,
+
 no se nos permite acostarnos,
+
 no se nos permite compartir el cielo,
+
 no se nos permite el tablero en blanco.
 
 Si las personas somos como células de un gran cuerpo, pues creo que hay personas que son el hombro derecho. Han hecho muchas cosas grandes, buenas y malas. Han hecho instituciones, teorías, países, universidades, empresas, han escrito libros y les han levantado estatuas.
@@ -132,7 +141,7 @@ de verdades que residen más allá de lo lógico
 que, como escribió Yasunari Kawabata,
 se encuentran solo al desechar las palabras.
 
-Hoy por hoy hay personas como [Giuliana Furci](https://laderasur.com/articulo/giuliana-furci-defensora-de-los-hongos-es-la-primera-chilena-en-recibir-premio-de-national-geographic/?srsltid=AfmBOoqwdoo0iUfZdxIJfoepnWJOiIcf-hvb-fZLV7rcCXxqfaNMsB-a)[1], gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singularesymás a las relaciones; donde no hay yo, hay nosotros en acción.
+Hoy por hoy hay personas como [Giuliana Furci](https://laderasur.com/articulo/giuliana-furci-defensora-de-los-hongos-es-la-primera-chilena-en-recibir-premio-de-national-geographic/?srsltid=AfmBOoqwdoo0iUfZdxIJfoepnWJOiIcf-hvb-fZLV7rcCXxqfaNMsB-a)[1], gran micóloga chilena, que, pensando en discusiones de sociedad y política pública desde el lente del reino Fungi, están incluso desafiando el uso generalizado de pronombres y sustantivos. Un mundo donde un árbol no es un individuo, sino “un simbionte fotosintético de los hongos”. Yo no entiendo bien qué es eso, pero entiendo la idea: un mundo donde hay menos atención a los singulares y más a las relaciones; donde no hay yo, hay nosotros en acción.
 
 Nuestro gran cuerpo, como el mío, también necesita aprender a caminar más alineado. Necesita el masaje que estira el músculo y lo suelta, y la acupuntura que introduce una aguja en la tierra de ideas tiesas.
 
@@ -147,7 +156,7 @@ No todo puede ser postura recta y pausa activa del trabajo.
 
 ### **3. El cuerpo que sangra**
 
-Estas palabras las gesté hace meses cuando a Gaza y a Ucrania las seguían bombardeando. Hoy también bombardean Irán y barcos pequeños y grandes en los océanos. En unos meses seguirán algunos teniendo que hacer minutos de silencio.
+Estas palabras las gesté hace meses cuando a Gaza y a Ucrania las seguían bombardeando. Hoy también bombardean Irán y barcos pequeños y grandes en los océanos. En unos meses, algunos seguirán teniendo que hacer minutos de silencio.
 
 Nuestro cuerpo gigante nos está sangrando.
 Mientras escribo estas palabras, siento el cuerpo que me está sangrando.
@@ -182,7 +191,7 @@ Para ~~mí~~ nosotrxs,
 y para que existan estas palabras,
 sus manos son más que necesarias.
 
-Notas:
+**Notas:**
 
 Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
 
