@@ -201,4 +201,4 @@ sus manos son más que necesarias.
 
 Gracias a mi amiga Florencia, por leerme, por sus valiosísimos comentarios y por inspirar mi habilidad artística para el collage: con este me gradué.
 
-[1] Dejó link a un perfil de Giulana Furci porque la [entrevista](https://shop.resurgence.org/current-issue) que quisiera compartir -de donde tomo la idea que referencio- tristemente no tiene acceso público. Si alguien quiere leerla, escríbame que resolvemos.
+[1] Dejé un link a un perfil de Giulana Furci porque la [entrevista](https://shop.resurgence.org/current-issue) que quisiera compartir -de donde tomo la idea que referencio- tristemente no tiene acceso público. Si alguien quiere leerla, escríbame que resolvemos.
