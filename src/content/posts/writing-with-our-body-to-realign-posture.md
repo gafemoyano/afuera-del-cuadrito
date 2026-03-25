@@ -16,9 +16,7 @@ lang: en
 ---
 
 **Writing with ~~my~~ our body to realign posture**
-
-**1.     Ivan**
-
+  **1.     Ivan**
 
 Ivan’s hands make me want to cry: tired, brave, persistent, healing. I want to cry at the injustice of it all — that I get this hour-long massage just for myself, where he moves and presses every part of my body; inserts needles, sets the cups, pulls my fingers, stretches my skin, rotates my joints. All of it, which I enjoy receiving, while he —in a self-taught, resourceful English, stitching nouns together with barely any prepositions or adverbs— tells me he’s tired, that he works a lot, that his life is work home, home work, tired, need rest.
 
@@ -48,10 +46,8 @@ The other day it was warm and, as I said goodbye, I told him, "Have a nice day" 
 He replied: no, you have a nice day.
 
 Because by the time he finishes work, the sun —even if it’s still there— no longer warms.
- 
-2.     **Religning posture**
 
-
+    2.     **Religning posture**
 
 Ivan is helping me realign my posture. My right shoulder sits higher, tense, pulling my whole body out of alignment. I’ve lived like this for years, with a pain in my shoulders and at the base of my neck that I’ve learned to carry. Stretching and yoga have never quite been enough; it always returns.
 
@@ -63,54 +59,71 @@ But lately I’ve been able to hold it. I care for it, defend it: I meditate, I 
 
 I’ve been this person for years, but quietly, in private.
 
-
 Now it feels different.
 
 I am challenging myself. I am creating myself.
+
 I don’t quite recognise myself.
+
 I like me. I thank myself.
+
 I rush ahead, and I worry.
+
 Don’t let it go away. Don’t let it go away.
+
 Don’t let the busy life take over.
 
 I like giving myself a day without plans and finding myself in a café, writing freely across napkins, scraps of paper, the back of a printout I’m meant to read.
 
 I write everywhere —and to do that, I had to let go of fixed ideas.
 
-The doctrine of duties.
-Fixed schedules, long hours.
-What I can or cannot be.
-What research can or cannot be.
-What I can or cannot say.
+The doctrine of duties: fixed schedules, long hours. What I can or cannot be. What research can or cannot be. What I can or cannot say.
 
 I delete the to-do list from my whiteboard —it’s been there for years, maybe decades, never fully crossed out.
 
 For a few days, I wrote nothing. Emptiness. Space.
 
 Now I write phrases that move me.
+
 I borrow them from friends,
+
 from a song,
+
 from a book.
+
 Sometimes I invent them.
+
 Sometimes they are questions.
 
 I stay with the words:
+
 I look at them while I get dressed in the morning,
+
 I memorise and chew them as I walk,
+
 I make them mine,
+
 break them apart,
+
 rearrange them.
 
 I swallow them into my body
+
 and wait,
+
 attentive,
+
 to see what grows.
 
-I was too fragmented to sit with myself
-We are chained
-Live in questions, not in answers
-Too much life wasted
-#mindcage
+_I was too fragmented to sit with myself_
+
+_We are chained_
+
+_Live in questions, not in answers_
+
+_Too much life wasted_
+
+_#mindcage_
 
 Today, during the session, it occurred to me that just as my body is made of cells in constant becoming, we humans are like cells in a larger body. And that body, too, has parts that tense.
 
@@ -123,8 +136,11 @@ We hold ideas as rigid as tight muscles pulling everything: the individual, the 
 And when the body is pulled like that, it can only move in certain ways: through systems that are individualistic, competitive, extractive, bordered. In this posture, we are forced in one direction —always wanting more, and only for ourselves.
 
 We are not allowed to stop.
+
 Not allowed to lie down.
+
 Not allowed to share the sky.
+
 Not allowed a blank whiteboard.
 
 If we are cells in a larger body, then some people are the right shoulder. They have built great things —good and bad— institutions, theories, countries, universities, companies. They’ve written books and had statues raised in their names and faces.
@@ -134,10 +150,15 @@ Some see only their light; some of us also see their shadow.
 And others are the left shoulder, or perhaps the eye, or a bare foot with a hardened sole, or the heart that sustains life, even when few recognise it. I don’t know what meanings these parts hold in somatic theories —if any— but I know that for thousands of years there have been those telling other stories.
 
 Of the illusion of the self,
+
 of radical interdependence,
+
 of Mother Earth,
+
 of truths beyond logic —
+
 which, as Yasunari Kawabata wrote,
+
 are found only by discarding words.
 
 Today, there are people like Giuliana Furci, the Chilean mycologist, who —thinking about society and public policy through the lens of fungi— are even challenging our use of pronouns and nouns. A world where a tree is not an individual but “a photosynthetic symbiont of fungi”. I don’t fully understand it, but I understand the point: less focus on the singular, more on the relationship; less “I”, more “we” in a constant becoming.
@@ -151,8 +172,9 @@ To draw close, like porcupines in winter —as in Schopenhauer’s metaphor— w
 To crawl like snakes, just to remember how to feel the world beneath.
 
 Not everything can be upright posture and active breaks.
- 
-**3. The bleeding body**
+
+
+    **3. The bleeding body**
 
 I wrote these words months ago, when Gaza and Ukraine were still being bombed. Today Iran is being bombed too, along with small and big vessels across the oceans. In months to come, _some_ will still hold more minutes of silence.
 
@@ -183,11 +205,17 @@ But everything I wrote I deleted or abandoned, overwhelmed by emotions that spil
 And then I remembered Ivan who, months later, is still working, still massaging, every day. The same conflicts remain. Mine —this dissonance of caring deeply about a world I don’t have to endure, in a life full of privileges. His —which I can only imagine from a distance— missing a homeland from within a narrow room, where the window faces another wall.
 
 His hands,
+
 like so many others,
+
 remain both tool and tragedy,
+
 strength and survival,
+
 opportunity and sentence.
 
 For ~~me~~ us,
+
 and for these words to exist,
+
 his hands are more than necessary.
