@@ -16,6 +16,8 @@ lang: en
 ---
 
 **Writing with ~~my~~ our body to realign posture**
+
+
   **1.     Ivan**
 
 Ivan’s hands make me want to cry: tired, brave, persistent, healing. I want to cry at the injustice of it all — that I get this hour-long massage just for myself, where he moves and presses every part of my body; inserts needles, sets the cups, pulls my fingers, stretches my skin, rotates my joints. All of it, which I enjoy receiving, while he —in a self-taught, resourceful English, stitching nouns together with barely any prepositions or adverbs— tells me he’s tired, that he works a lot, that his life is work home, home work, tired, need rest.
