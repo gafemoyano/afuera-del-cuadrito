@@ -17,7 +17,6 @@ lang: en
 
 **Writing with ~~my~~ our body to realign posture**
 
-
   **1.     Ivan**
 
 Ivan’s hands make me want to cry: tired, brave, persistent, healing. I want to cry at the injustice of it all — that I get this hour-long massage just for myself, where he moves and presses every part of my body; inserts needles, sets the cups, pulls my fingers, stretches my skin, rotates my joints. All of it, which I enjoy receiving, while he —in a self-taught, resourceful English, stitching nouns together with barely any prepositions or adverbs— tells me he’s tired, that he works a lot, that his life is work home, home work, tired, need rest.
@@ -49,7 +48,7 @@ He replied: no, you have a nice day.
 
 Because by the time he finishes work, the sun —even if it’s still there— no longer warms.
 
-    2.     **Religning posture**
+2. **Religning posture**
 
 Ivan is helping me realign my posture. My right shoulder sits higher, tense, pulling my whole body out of alignment. I’ve lived like this for years, with a pain in my shoulders and at the base of my neck that I’ve learned to carry. Stretching and yoga have never quite been enough; it always returns.
 
@@ -178,7 +177,7 @@ To crawl like snakes, just to remember how to feel the world beneath.
 
 Not everything can be upright posture and active breaks.
 
-    **3. The bleeding body**
+**3. The bleeding body**
 
 I wrote these words months ago, when Gaza and Ukraine were still being bombed. Today Iran is being bombed too, along with small and big vessels across the oceans. In months to come, _some_ will still hold more minutes of silence.
 
