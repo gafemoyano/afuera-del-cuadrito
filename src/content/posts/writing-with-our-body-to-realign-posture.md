@@ -115,15 +115,18 @@ attentive,
 
 to see what grows.
 
-_I was too fragmented to sit with myself_
-
-_We are chained_
-
-_Live in questions, not in answers_
-
-_Too much life wasted_
-
-_#mindcage_
+<i style="text-align: center; margin: 2rem 0; font-size: 1.1em; line-height: 1.4; width: 100%; display: block;">
+  I was too fragmented to sit with myself
+  <br />
+  We are chained
+  <br />
+  Vivir en preguntas y no en respuestas
+  <br />
+  Too much life wasted
+  <br />
+ #mentejaula
+  <br />
+</i>
 
 Today, during the session, it occurred to me that just as my body is made of cells in constant becoming, we humans are like cells in a larger body. And that body, too, has parts that tense.
 
@@ -172,7 +175,6 @@ To draw close, like porcupines in winter —as in Schopenhauer’s metaphor— w
 To crawl like snakes, just to remember how to feel the world beneath.
 
 Not everything can be upright posture and active breaks.
-
 
     **3. The bleeding body**
 
