@@ -45,7 +45,9 @@ I want to cry at the injustices: that some must leave, while others live off thi
 
 I wish he could feel the sun warming my forehead right now.
 
-The other day it was warm and, as I said goodbye, I told him, “Have a nice day” —with a smile that exaggerated my kindness and hid a useless guilt. He replied: no, you have a nice day.
+The other day it was warm and, as I said goodbye, I told him, “Have a nice day” —with a smile that exaggerated my kindness and hid a useless guilt. 
+
+He replied: no, you have a nice day.
 
 Because by the time he finishes work, the sun —even if it’s still there— no longer warms.
 
@@ -125,7 +127,7 @@ Vivir en preguntas y no en respuestas
 
 Too much life wasted
 
-#mentejaula
+#mentejaula   #mindcage
 
 Today, during the session, it occurred to me that just as my body is made of cells in constant becoming, we humans are like cells in a larger body. And that body, too, has parts that tense up.
 
@@ -163,7 +165,7 @@ which, as Yasunari Kawabata wrote,
 
 are found only by discarding words.
 
-Today, there are people like Giuliana Furci, the Chilean mycologist, who —thinking about society and public policy through the lens of fungi— are even challenging our use of pronouns and nouns. A world where a tree is not an individual but “a photosynthetic symbiont of fungi”. I don’t fully understand it, but I understand the point: less focus on the singular, more on the relationship; less “I”, more “we” in a constant becoming.
+Today, there are people like [Giuliana Furci](https://shop.resurgence.org/current-issue)[1], the Chilean mycologist, who —thinking about society and public policy through the lens of fungi— are even challenging our use of pronouns and nouns. A world where a tree is not an individual but “a photosynthetic symbiont of fungi”. I don’t fully understand it, but I understand the point: less focus on the singular, more on the relationship; less “I”, more “we” in a constant becoming.
 
 Our larger body, like mine, needs to learn to move in better alignment. It needs the massage that stretches and releases, and the acupuncture that pierces a needle into the soil of rigid ideas.
 
@@ -218,3 +220,8 @@ For ~~me~~ us,
 and for these words to exist,
 
 his hands are more than necessary.
+
+Notes:
+Thanks to my friend Florencia for reading me, for her incredibly valuable comments, and for inspiring my artistic ability in collage. Thanks to my friend Caro for her editorial assistance with the English version of this text.
+
+[1] The interview I’m sharing isn’t publicly accessible, but if anyone wants to read it, write to me, and we’ll sort it out.
