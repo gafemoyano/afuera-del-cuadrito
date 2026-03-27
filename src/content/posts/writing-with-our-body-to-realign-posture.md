@@ -224,7 +224,9 @@ and for these words to exist,
 
 his hands are more than necessary.
 
-Notes:
+
+**Notes**
+
 Thanks to my friend Florencia for reading me, for her incredibly valuable comments, and for inspiring my artistic ability in collage. Thanks to my friend Caro for her editorial assistance with the English version of this text.
 
 [1] The interview I’m sharing isn’t publicly accessible, but if anyone wants to read it, write to me, and we’ll sort it out.
