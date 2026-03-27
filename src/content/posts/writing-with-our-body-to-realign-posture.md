@@ -45,7 +45,7 @@ I want to cry at the injustices: that some must leave, while others live off thi
 
 I wish he could feel the sun warming my forehead right now.
 
-The other day it was warm and, as I said goodbye, I told him, “Have a nice day” —with a smile that exaggerated my kindness and hid a useless guilt. 
+The other day it was warm and, as I said goodbye, I told him, “Have a nice day” —with a smile that exaggerated my kindness and hid a useless guilt.
 
 He replied: no, you have a nice day.
 
@@ -119,15 +119,18 @@ attentive,
 
 to see what grows.
 
-I was too fragmented to sit with myself
-
-We are chained
-
-Vivir en preguntas y no en respuestas
-
-Too much life wasted
-
-#mentejaula   #mindcage
+<i style="text-align: center; margin: 2rem 0; font-size: 1.1em; line-height: 1.4; width: 100%; display: block;">
+  I was too fragmented to sit with myself
+  <br />
+  We are chained
+  <br />
+  Vivir en preguntas y no en respuestas
+  <br />
+  Too much life wasted
+  <br />
+ #mentejaula #mindcage
+  <br />
+</i>
 
 Today, during the session, it occurred to me that just as my body is made of cells in constant becoming, we humans are like cells in a larger body. And that body, too, has parts that tense up.
 
