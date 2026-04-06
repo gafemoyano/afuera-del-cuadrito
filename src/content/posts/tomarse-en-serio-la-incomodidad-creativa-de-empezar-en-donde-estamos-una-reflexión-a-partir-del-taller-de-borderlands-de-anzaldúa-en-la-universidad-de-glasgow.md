@@ -4,6 +4,10 @@ meta_title: 'Tomarse en serio la incomodidad creativa de empezar en donde estamo
 description: 'Cinco días antes del taller “La frontera como posibilidad: reescribiendo la realidad con Gloria Anzaldúa”, que la Red de Investigación Latinoamericana de la Universidad de Glasgow (GLARN) me había invitado a facilitar, me desperté en medio de la noche después de una pesadilla. En ella, había confundido el día del taller para el viernes, cuando estaba programado para el lunes anterior. Era lunes, la gente me estaba esperando en la sala, y yo no estaba lista. Entré en pánico.'
 date: 2026-04-06T11:31:00
 image: /images/uploads/Slide1.png
+tags:
+  - Paradigma
+  - Anzaldúa
+  - Fronteras
 draft: false
 lang: es
 ---
@@ -16,7 +20,7 @@ Después de despertarme y no poder volver a dormir, me levanté y saqué una car
 
 Conocí el trabajo de Gloria Anzaldúa gracias a la Dra. Karen Serra Undurraga —en ese momento mi profesora, ahora mi supervisora— durante una de mis clases del doctorado en Salud en Ciencias Sociales en la Universidad de Edimburgo en 2023. Desde entonces, la [_autohistoria-teoría_](https://journals.sagepub.com/doi/abs/10.1177/1077800421998359) de Anzaldúa no solo se ha convertido en la metodología de mi tesis, sino que también he diseñado y facilitado varios talleres basados en su trabajo.[[1]](applewebdata://8E2AD12B-B8A3-43A1-93AD-16D7D43889ED#_ftn1) Estos espacios siempre habían tenido lugar dentro de mi escuela, entre personas que ya familiarizadas con su obra, que trabajan en psicoterapia o terrenos afines, y que conocen de investigación postcualitativa, a través de espacios académicos como el [Center for Creative Relational Inquiry (CCRI)](https://health.ed.ac.uk/research/current-research/ccri) – que traduce algo así como Centro para la Indagación Relacional Creativa.
 
-Aceptar la invitación de GLARN implicaba entrar en un espacio distinto. Esperaba participantes de diversos orígenes —algunos incluso fuera de la academia— e imaginaba que quienes sí pertenecieran a ella podrían estar trabajando con enfoques más “tradicionales”. 
+Aceptar la invitación de GLARN implicaba entrar en un espacio distinto. Esperaba participantes de diversos orígenes —algunos incluso fuera de la academia— e imaginaba que quienes sí pertenecieran a ella podrían estar trabajando con enfoques más “tradicionales”.
 
 Mi invitación era pasar una tarde juntas (que resultó siendo una de aquellas tardes soleadas en Glasgow en que nadie quiere estar adentro) explorando el concepto de Borderlands (o de Fronteras) propuesto por Anzaldúa y pensando en nuestro propio trabajo desde esa perspectiva.
 
@@ -28,7 +32,7 @@ Su escritura encarna este cuestionamiento: atraviesa lenguas, géneros literari
 
 Inspirada por los agudos cuestionamientos de Anzaldúa a los límites “antinaturales” que identificaba en las estructuras que la rodeaban —la academia, los espacios feministas de activisto, los espacios chicanos, los espacios espirituales— concebí este taller como un espacio para cuestionar los nuestros: ¿Qué límites encontramos en nuestra investigación? ¿Cómo moldean nuestro trabajo? ¿Qué tipo de mundo producen? ¿Cómo podría hacerlos más porosos apoyar las transformaciones sociales en las que creemos?
 
-Voy a dar algunos ejemplos, por si esto está demasiado abstracto. Como investigadores, ¿cuándo ocultamos partes de nosotrxs que sentimos esenciales para nuestro trabajo? ¿Por qué lo hacemos—y existen alternativas que nos permitan sentirnos más coherentes? ¿Qué tipo de cambios podrían surgir, aunque sean pequeños, si hiciéramos algo de manera diferente? 
+Voy a dar algunos ejemplos, por si esto está demasiado abstracto. Como investigadores, ¿cuándo ocultamos partes de nosotrxs que sentimos esenciales para nuestro trabajo? ¿Por qué lo hacemos—y existen alternativas que nos permitan sentirnos más coherentes? ¿Qué tipo de cambios podrían surgir, aunque sean pequeños, si hiciéramos algo de manera diferente?
 
 Quizás tenga que ver con nuestro estilo de escritura. O con reconocer públicamente que algo que hacemos proviene de la intuición, o de un conocimiento adquirido a través de la meditación. Tal vez tenga que ver con momentos en los que podríamos ser lo suficientemente humildes y honestas para admitir —a pesar de ser posicionadxs como “expertxs”— que no sabemos, o que lo que sabemos proviene de un proceso no lineal, desordenado e incluso misterioso.
 
