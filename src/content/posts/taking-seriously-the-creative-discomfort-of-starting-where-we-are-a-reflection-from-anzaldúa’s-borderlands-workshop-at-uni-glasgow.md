@@ -4,8 +4,12 @@ meta_title: 'Taking seriously the creative discomfort of starting where we are: 
 description: 'Five days before the workshop “Border as possibility: Rewriting reality with Gloria Anzaldúa,” which the Glasgow Latin American Research Network (GLARN) at the University of Glasgow had invited me to facilitate, I woke up in the middle of the night after a nightmare. In it, I had mistaken the day of the workshop for Friday, when it had actually been scheduled for the previous Monday. It was Monday, people were waiting for me in the room, and I wasn’t ready. I was panicking.'
 date: 2026-04-06T10:24:00
 image: /images/uploads/Slide1.png
+tags:
+  - Paradigm
+  - Anzaldúa
+  - Borders
 draft: false
-lang: es
+lang: en
 ---
 
 Five days before the workshop “Border as possibility: Rewriting reality with Gloria Anzaldúa,” which the [Glasgow Latin American Research Network (GLARN) at the University of Glasgow](https://www.gla.ac.uk/schools/socialpolitical/research/sociological-cultural-studies-research/glarn/) had invited me to facilitate, I woke up in the middle of the night after a nightmare. In it, I had mistaken the day of the workshop for Friday, when it had actually been scheduled for the previous Monday. It was Monday, people were waiting for me in the room, and I wasn’t ready. I was panicking.
