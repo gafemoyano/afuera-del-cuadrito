@@ -10,15 +10,17 @@ lang: es
 
 Five days before the workshop “Border as possibility: Rewriting reality with Gloria Anzaldúa,” which the [Glasgow Latin American Research Network (GLARN) at the University of Glasgow](https://www.gla.ac.uk/schools/socialpolitical/research/sociological-cultural-studies-research/glarn/) had invited me to facilitate, I woke up in the middle of the night after a nightmare. In it, I had mistaken the day of the workshop for Friday, when it had actually been scheduled for the previous Monday. It was Monday, people were waiting for me in the room, and I wasn’t ready. I was panicking.
 
+![](/images/uploads/IMG_2584%20jpg.jpg)
+
 After waking up and failing to fall asleep again, I got up and drew a card from one of my decks. The card was “Discomfort.” It felt almost too accurate—a clear invitation to name what I was feeling: the discomfort of stepping out of my comfort zone to offer this workshop.
 
 I was introduced to Gloria Anzaldúa’s work by Dr. Karen Serra Undurraga—my teacher at the time, my supervisor now—during one of my PhD courses in Health in Social Sciences at the University of Edinburgh in 2023. Since then, Anzaldúa’s [_autohistoria-teoría_](https://journals.sagepub.com/doi/abs/10.1177/1077800421998359) has not only become the methodology for my dissertation, but I have also designed and led several workshops based on her work.[[1]](applewebdata://828EEAEB-C73A-4B38-B440-FAE83EBDBD4F#_ftn1) These had always taken place within my school, among people already familiar with her work, most of them with a background in counselling studies. Importantly, many were also familiar with post-qualitative research through academic spaces like the [Center for Creative Relational Inquiry (CCRI)](https://health.ed.ac.uk/research/current-research/ccri).
 
 Accepting GLARN’s invitation meant stepping into a different space. I expected participants from varied backgrounds—some even outside academia—and imagined that those within academia might be working with more “traditional” approaches. My invitation was to spend an afternoon together (which, as it turned out, was a very sunny one in Glasgow) exploring the concept of Borderlands as proposed by Anzaldúa, and thinking about our own work through that lens.
 
-Anzaldúa was a Chicana writer, poet, activist, artist, lesbian, and academic whose life was an ongoing effort to bring together the pieces of her inner sense of fragmentation. Born in a geographical borderland—the border between the US and Mexico—her work explored and challenged borders of all kinds. Writing about the concept of Borderlands, she said: 
+Anzaldúa was a Chicana writer, poet, activist, artist, lesbian, and academic whose life was an ongoing effort to bring together the pieces of her inner sense of fragmentation. Born in a geographical borderland—the border between the US and Mexico—her work explored and challenged borders of all kinds. Writing about the concept of Borderlands, she said:
 
-“_the psychological borderlands, the sexual borderlands and the spiritual borderlands are not particular to the Southwest. In fact, the Borderlands are physically present wherever two or more cultures edge each other, where people of different races occupy the same territory, where under, lower, middle and upper classes touch, where the space between two individuals shrinks with intimacy”_ (Anzaldúa 1987).
+“_the psychological borderlands, the sexual borderlands, and the spiritual borderlands are not particular to the Southwest. In fact, the Borderlands are physically present wherever two or more cultures edge each other, where people of different races occupy the same territory, where under, lower, middle and upper classes touch, where the space between two individuals shrinks with intimacy”_ (Anzaldúa 1987).
 
 Her writing embodies this questioning: across languages, genres, artwork, critical theory, and mystical knowledge, exploring culture, identity, race, and social justice.[[2]](applewebdata://828EEAEB-C73A-4B38-B440-FAE83EBDBD4F#_ftn2)
 
@@ -52,11 +54,14 @@ The discomfort of questioning what is, and of pushing it toward what could be, i
 
 I’m reminded of Buddhist nun Pema Chödrön’s words: “start where you are.” I’m grateful to GLARN for offering a space where I could share that discomfort creatively, alongside others willing to do the same. We are living in times that ask exactly this of us.
 
-**Notes** 
+**Notes**
 
 This text was originally published in [GLARN Blog](https://www.gla.ac.uk/schools/socialpolitical/research/sociological-cultural-studies-research/glarn/glarnblog/#lawandpoliticalimaginationinelrojomáspuro%253Athinkingofsocialtransformationbeyondthelanguageofrights,takingseriouslythecreativediscomfortofstartingwhereweare%253Aareflectionfromanzaldúa’sborderlandsworkshop). Huge thanks to friend and colleague Irene Piedrahita for inviting me to write and facilitate this wonderful space.
 
-
-[[1]](applewebdata://828EEAEB-C73A-4B38-B440-FAE83EBDBD4F#_ftnref1) The linked article is not open access. In case you need, please contact me (Juliana.ramirez@ed.ac.uk) so that I can share it. 
+[[1]](applewebdata://828EEAEB-C73A-4B38-B440-FAE83EBDBD4F#_ftnref1) The linked article is not open access. In case you need, please contact me so that I can share it.
 
 [[2]](applewebdata://828EEAEB-C73A-4B38-B440-FAE83EBDBD4F#_ftnref2) For anyone interested in reading more about Anzaldúa’s theories, I suggest reading: “The Anzaldúan Theory Handbook” by AnaLouise Keating.
+
+**Bibliography**
+
+Borderlands/La Frontera: The New Mestiza. By Gloria Anzaldúa. San Francisco: Aunt Lute Books, 1987.
