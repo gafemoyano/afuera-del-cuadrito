@@ -2,7 +2,7 @@
 title: 'Taking seriously the creative discomfort of starting where we are: A reflection from Anzaldúa’s Borderlands Workshop at Uni Glasgow'
 meta_title: 'Taking seriously the creative discomfort of starting where we are: A reflection from Anzaldúa’s Borderlands Workshop at Uni Glasgow'
 date: 2026-04-06T10:24:00
-image: /images/uploads/Portadas.png
+image: /images/uploads/Slide1.png
 draft: false
 lang: es
 ---
