@@ -180,7 +180,7 @@ el mismo de la otra vez.
   <br />
 
   <br />
-¿Sabrán los pájaros, 
+¿Recordarán los pájaros, 
   <br />
 que un día, no muchos atrás, 
   <br />
