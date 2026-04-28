@@ -13,7 +13,7 @@ description: |-
   si en lugar de compuestos biológicos y reacciones orgánicas, 
   la vida no lo fuera, sino solo lata y máquina.
 date: 2026-04-23T17:42:00
-image: /images/uploads/IMG_1886.jpg
+image: /images/uploads/Portadas-2.png
 tags:
   - Poema
   - Pájaros
