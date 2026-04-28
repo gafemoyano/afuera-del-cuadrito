@@ -44,7 +44,7 @@ la vida  fuera solo lata y máquina.
   <br />
 ¿Sentirán ellas lo que siento yo,
   <br />
-sentada al lado del desconsiderado
+sentada al lado del desconsiderado,
   <br />
 el que sorbe, aspira y traga mocos cual faringe de beat box?
   <br />
@@ -52,15 +52,13 @@ el que sorbe, aspira y traga mocos cual faringe de beat box?
   <br />
 Qué les habrá cantado el primer petirrojo a sus semejantes,
   <br />
-Un día de un abril  todo dispuesto
+un día de un abril, todo dispuesto
  <br />
-todos haciendo lo que les correspondía hacer, 
- <br />
-siendo lo que les correspondía ser, 
+todos haciendo lo que debían hacer, 
   <br />
 cuando desde la cima de la rama más alta de un cerezo, 
   <br />
-escuchó, primero a lo lejos y luego más cerca
+escuchó, primero a lo lejos y luego más cerca,
   <br />
 quizás asustado, seguro aturdido
   <br />
@@ -77,11 +75,11 @@ MMMMRRRRRMMMTRTRTRTRMMMMTRTRTRTRMMM
 </i>
 
 <div style="text-align: left; margin: 2rem 0; font-size: 1em; line-height: 1.4; width: 100%; display: block;">
-El primero que pasó un día hace no muchos,
+del primero que pasó un día hace no muchos,
   <br />
 por encima de este pasto verde, 
   <br />
-y de las cabecitas pequeñas como hormigas.
+que las cabecitas pequeñas recorrían cual hormigas.
   <br />
 
 <br />
@@ -89,13 +87,13 @@ y de las cabecitas pequeñas como hormigas.
     <br />
 De un Piiii piririi Piii piririi Piiii
    <br />
-Por uno más Piiii Prrrrrpririririri Piiiiii Prrrrrpripririririii
+por uno más Piiii Prrrrrpririririri Piiiiii Prrrrrpripririririii
   <br />
-Sugiriendo, quizás 
+sugiriendo, quizás 
   <br />
 ¡Peligro o o o o o ! ¡Qué é é  es! ¡Peligro o o o o o ! ¡Qué é é  es!
   <br />
-o ¡Shhhhhhh cosa fea, quite de ahí!
+o ¡Shhhhhhh cosa fea, quite de ahí í í í! ¡Shhhhhhh cosa fea, quite de ahí í í í!
   <br />
 
   <br />
@@ -119,9 +117,8 @@ mmmmmmmrrrrrrr mmmmmmmrrrrrrr
  mmhhh mm hhhhh 
 </i>
 
-
   <br />
-un chirrido de un horizonte oxidado.
+perdiéndose como un chirrido de un horizonte oxidado.
   <br />
 
   <br />
@@ -143,30 +140,29 @@ dado como a los peces los cables en el mar. 
 <br />
 Los que cantan Pirupirupiiii pirupirupiiii
   <br />
-y los que hacen buuuubburíbuburí buuuuburí bubu pirirí    
+y los que hacen buuuubburíbuburí buuuuburí bubu pirirí
 <br />
 Y los del Prrí prrrí prrrraaarrí prí prí prí
   <br />
 
 <br />
-Bajo este cielo azul en este pasto verde
+Bajo este cielo azul en este pasto verde,
   <br />
-Donde todos vienen y van,
+donde todos vienen y van,
   <br />
-Petirrojos, mirlos, cuervos, gaviotas, palomas, patos, gorriones y mosquiteros,
+petirrojos, mirlos, cuervos, gaviotas, palomas, patos, gorriones y mosquiteros,
   <br />
-Perros con y sin pedrigrí,
+perros con y sin pedrigrí,
   <br />
-cabezas con mucho y poco pelo, pelirrojos, canosos y con gorros,
-
+cabezas con y sin pelo, 
+  <br />
+pelirrojos, canosos, con gorros y hasta moños,
   <br />
 coches de bebés que miran a sus mamás absortos, 
   <br />
 todos vienen y van, 
   <br />
-todos, 
-  <br />
-excepto ese helicóptero 
+todos, excepto ese helicóptero 
   <br />
 insoportable,
   <br />
@@ -179,7 +175,7 @@ malportado, 
 incesante, descortés, imprudente,  latairritante
 
   <br />
-bulliciotormentoso, parlanteinmundo, porqueríavoladora, ruidodelmal, máquinamuerta, adefesioinnecesario
+bulliciotormentoso, parlanteinmundo, porqueríavoladora, ruidodelmal, máquinamuerta, adefesioinnecesario.
   <br />
 
   <br />
