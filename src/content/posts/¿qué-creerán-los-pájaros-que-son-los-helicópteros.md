@@ -52,7 +52,7 @@ el que sorbe, aspira y traga mocos cual faringe de beat box?
   <br />
 Qué les habrá cantado el primer petirrojo a sus semejantes,
   <br />
-un día de un abril, todo dispuesto
+un día de un abril, todo dispuesto,
  <br />
 todos haciendo lo que debían hacer, 
   <br />
@@ -99,7 +99,7 @@ o ¡Shhhhhhh cosa fea, quite de ahí í í í! ¡Shhhhhhh cosa fea, quite de ah�
   <br />
 Quizás no, y solo se movió,
   <br />
-resignado, como me muevo yo de mesa
+resignado, como me muevo yo de mesa,
   <br />
 buscando que el 
 
@@ -118,7 +118,7 @@ mmmmmmmrrrrrrr mmmmmmmrrrrrrr
 </i>
 
   <br />
-perdiéndose como un chirrido de un horizonte oxidado.
+perdiéndose como el eco de un horizonte oxidado.
   <br />
 
   <br />
@@ -142,7 +142,7 @@ Los que cantan Pirupirupiiii pirupirupiiii
   <br />
 y los que hacen buuuubburíbuburí buuuuburí bubu pirirí
 <br />
-Y los del Prrí prrrí prrrraaarrí prí prí prí
+y los del Prrí prrrí prrrraaarrí prí prí prí
   <br />
 
 <br />
@@ -162,20 +162,21 @@ coches de bebés que miran a sus mamás absortos, 
   <br />
 todos vienen y van, 
   <br />
-todos, excepto ese helicóptero 
+todos, excepto ese helicóptero,
   <br />
-insoportable,
+insoportable, criminal,
   <br />
-criminal, 
+desconsiderado, malportado, incesante, 
+ <br />
+descortés, imprudente,  latairritante, bulliciotormentoso, 
   <br />
-desconsiderado, 
+parlanteinmundo, porqueríavoladora, ruidodelmal, máquinamuerta, adefesioinnecesario.
   <br />
-malportado, 
-  <br />
-incesante, descortés, imprudente,  latairritante
 
   <br />
-bulliciotormentoso, parlanteinmundo, porqueríavoladora, ruidodelmal, máquinamuerta, adefesioinnecesario.
+Ahhh el helicóptero,
+  <br />
+el mismo de la otra vez.
   <br />
 
   <br />
@@ -183,6 +184,5 @@ bulliciotormentoso, parlanteinmundo, porqueríavoladora, ruidodelmal, máquinamu
   <br />
 que un día, no muchos atrás, 
   <br />
-en este mismo parque, 
+en este mismo parque, nadie se atrevía a su canto desafiar?
   <br />
-nadie se atrevía a su canto desafiar?
