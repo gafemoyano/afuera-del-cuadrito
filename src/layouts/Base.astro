@@ -1,4 +1,5 @@
 ---
+import { ClientRouter } from "astro:transitions";
 import TwSizeIndicator from "@/components/TwSizeIndicator.astro";
 import config from "@/config/config.json";
 import theme from "@/config/theme.json";
@@ -56,11 +57,7 @@ const { title, meta_title, description, image, noindex, canonical } =
     <!-- google font css -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    {
-      googleFontLinks.map((url) => (
-        <link rel="stylesheet" href={url} />
-      ))
-    }
+    {googleFontLinks.map((url) => <link rel="stylesheet" href={url} />)}
 
     <!-- responsive meta -->
     <meta
@@ -143,6 +140,8 @@ const { title, meta_title, description, image, noindex, canonical } =
       }`}
     />
     <meta name="twitter:card" content="summary_large_image" />
+
+    <ClientRouter />
   </head>
   <body>
     <TwSizeIndicator />
