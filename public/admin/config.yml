@@ -15,7 +15,8 @@ public_folder: "/images/uploads" # Public URL path for uploaded files
 
 # Site configuration
 site_url: https://afueradelcuadrito.netlify.app # Replace with your site URL
-logo_url: /images/logo.png
+logo:
+  src: /images/logo.png
 
 # Collections
 collections:
@@ -61,7 +62,10 @@ collections:
         widget: "string"
         required: false
         hint: "To link translations, use the same key for both Spanish and English versions (e.g., 'multispecies-dialogue')"
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        editor_components: ["code-block", "image", "align-right", "indent-xl"]
   # Pages
   - name: "pages"
     label: "Pages"
@@ -84,7 +88,10 @@ collections:
           required: false,
         }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        editor_components: ["code-block", "image", "align-right", "indent-xl"]
 
   # Special Pages (using file collection for singleton pages)
   - name: "special_pages"
@@ -116,7 +123,11 @@ collections:
               - { label: "Español", value: "es" }
               - { label: "English", value: "en" }
             default: "es"
-          - { label: "Content", name: "body", widget: "markdown" }
+          - label: "Content"
+            name: "body"
+            widget: "markdown"
+            editor_components:
+              ["code-block", "image", "align-right", "indent-xl"]
       - label: "About Page (English)"
         name: "about_en"
         file: "src/content/about/-index-en.md"
@@ -143,7 +154,11 @@ collections:
               - { label: "Español", value: "es" }
               - { label: "English", value: "en" }
             default: "en"
-          - { label: "Content", name: "body", widget: "markdown" }
+          - label: "Content"
+            name: "body"
+            widget: "markdown"
+            editor_components:
+              ["code-block", "image", "align-right", "indent-xl"]
 
 # Data output settings
 output:

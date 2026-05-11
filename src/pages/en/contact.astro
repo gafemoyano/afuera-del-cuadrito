@@ -1,0 +1,28 @@
+---
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import type { CollectionEntry } from "astro:content";
+import { getEntry } from "astro:content";
+
+const entry = (await getEntry(
+  "pages",
+  "contact-en",
+)) as CollectionEntry<"pages">;
+const { title, description, meta_title, image } = entry.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section">
+    <div class="container">
+      <h1 set:html={markdownify(title)} class="h2 page-heading" />
+      <div class="prose prose-lg max-w-none">
+        <div set:html={markdownify(entry.body, true)} />
+      </div>
+    </div>
+  </section>
+</Base>

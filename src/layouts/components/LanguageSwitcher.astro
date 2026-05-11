@@ -5,6 +5,7 @@ import {
   LANGUAGE_NAMES,
   getPostUrl,
   DEFAULT_LANGUAGE,
+  type Language,
 } from "@/lib/utils/languageHelpers";
 import { getSinglePage } from "@/lib/contentParser.astro";
 
@@ -16,22 +17,33 @@ const { currentPost } = Astro.props;
 const allPosts = await getSinglePage("posts");
 const translation = getTranslation(currentPost, allPosts);
 const currentLang = currentPost.data.lang || DEFAULT_LANGUAGE;
+const otherLang: Language = currentLang === "es" ? "en" : "es";
+const availableLabel =
+  currentLang === "es" ? "Traducción disponible:" : "Translation available:";
+const unavailableLabel =
+  currentLang === "es"
+    ? "Traducción no disponible"
+    : "Translation not available";
 ---
 
-{
-  translation && (
-    <div class="language-switcher flex items-center justify-center gap-2 text-sm mt-2">
+<div
+  class="language-switcher mt-3 flex items-center justify-center gap-2 text-sm"
+>
+  {
+    translation ? (
+      <>
+        <span class="text-gray-500">{availableLabel}</span>
+        <a
+          href={getPostUrl(translation)}
+          class="font-medium text-primary transition hover:underline focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
+        >
+          {LANGUAGE_NAMES[translation.data.lang || DEFAULT_LANGUAGE]}
+        </a>
+      </>
+    ) : (
       <span class="text-gray-500">
-        {currentLang === "es"
-          ? "Also available in:"
-          : "También disponible en:"}
+        {unavailableLabel} ({LANGUAGE_NAMES[otherLang]})
       </span>
-      <a
-        href={getPostUrl(translation)}
-        class="text-primary hover:underline font-medium"
-      >
-        {LANGUAGE_NAMES[translation.data.lang || DEFAULT_LANGUAGE]}
-      </a>
-    </div>
-  )
-}
+    )
+  }
+</div>

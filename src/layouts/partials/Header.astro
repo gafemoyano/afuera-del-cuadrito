@@ -1,5 +1,6 @@
 ---
 import Logo from "@/components/Logo.astro";
+import NavLanguageSwitcher from "@/components/NavLanguageSwitcher.astro";
 import menu from "@/config/menu.json";
 import { IoSearch } from "react-icons/io5";
 
@@ -86,15 +87,16 @@ const { main }: { main: NavigationLink[] } = menu;
         ))
       }
     </ul>
-    <div class="order-1 ml-auto flex md:order-2 md:ml-0">
+    <div class="order-1 ml-auto flex items-center gap-2 md:order-2 md:ml-0">
       <a
-        class="mr-4 inline-block cursor-pointer p-2 text-xl text-dark transition hover:text-primary md:mr-0"
+        class="inline-block cursor-pointer p-2 text-xl text-dark transition hover:text-primary"
         href="/search"
         title="Buscar"
         aria-label="Abrir la búsqueda"
       >
         <IoSearch />
       </a>
+      <NavLanguageSwitcher />
     </div>
   </nav>
 </header>

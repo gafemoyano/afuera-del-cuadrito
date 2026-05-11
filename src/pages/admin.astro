@@ -50,7 +50,35 @@
 		</style>
   </head>
   <body>
+    <script is:inline>
+      window.CMS_MANUAL_INIT = true;
+    </script>
     <!-- Include SveltiaCMS - the modern successor to NetlifyCMS/DecapCMS -->
     <script is:inline src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script is:inline>
+      CMS.registerEditorComponent({
+        id: "align-right",
+        label: "Right-aligned block",
+        icon: "format_align_right",
+        fields: [{ name: "content", label: "Content", widget: "markdown" }],
+        pattern:
+          /^<div class="content-align-right">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+        toBlock: ({ content }) =>
+          `<div class="content-align-right">\n${content}\n</div>`,
+      });
+
+      CMS.registerEditorComponent({
+        id: "indent-xl",
+        label: "Large indented block",
+        icon: "format_indent_increase",
+        fields: [{ name: "content", label: "Content", widget: "markdown" }],
+        pattern:
+          /^<div class="content-indent-xl">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+        toBlock: ({ content }) =>
+          `<div class="content-indent-xl">\n${content}\n</div>`,
+      });
+
+      CMS.init();
+    </script>
   </body>
 </html>

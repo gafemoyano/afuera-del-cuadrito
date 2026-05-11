@@ -1,0 +1,86 @@
+---
+import { getSinglePage } from "@/lib/contentParser.astro";
+import {
+  DEFAULT_LANGUAGE,
+  getPostUrl,
+  getTranslation,
+  type Language,
+} from "@/lib/utils/languageHelpers";
+
+const pathname = Astro.url.pathname.replace(/\/$/, "") || "/";
+const currentLang: Language =
+  pathname === "/en" || pathname.startsWith("/en/") ? "en" : DEFAULT_LANGUAGE;
+const targetLang: Language = currentLang === "es" ? "en" : "es";
+const label = targetLang.toUpperCase();
+
+const homeFor = (lang: Language) =>
+  lang === DEFAULT_LANGUAGE ? "/" : `/${lang}`;
+
+let targetUrl = homeFor(targetLang);
+let isLinked = true;
+
+const routePairs: Record<string, string> = {
+  "/": "/en",
+  "/en": "/",
+  "/about": "/en/about",
+  "/en/about": "/about",
+  "/contact": "/en/contact",
+  "/en/contact": "/contact",
+  "/tags": "/en/tags",
+  "/en/tags": "/tags",
+};
+
+if (routePairs[pathname]) {
+  targetUrl = routePairs[pathname];
+} else if (pathname.startsWith("/tags/")) {
+  targetUrl = `/en${pathname}`;
+} else if (pathname.startsWith("/en/tags/")) {
+  targetUrl = pathname.replace(/^\/en/, "");
+} else if (pathname.startsWith("/page/")) {
+  targetUrl = `/en${pathname}`;
+} else if (pathname.startsWith("/en/page/")) {
+  targetUrl = pathname.replace(/^\/en/, "");
+} else {
+  const postMatch = pathname.match(/^\/(es|en)\/(.+)$/);
+
+  if (postMatch) {
+    const [, lang, slug] = postMatch;
+    const posts = await getSinglePage("posts");
+    const currentPost = posts.find(
+      (post) =>
+        post.id === slug && (post.data.lang || DEFAULT_LANGUAGE) === lang,
+    );
+    const translation = currentPost ? getTranslation(currentPost, posts) : null;
+
+    if (translation) {
+      targetUrl = getPostUrl(translation);
+    } else {
+      isLinked = false;
+    }
+  }
+}
+
+const classes =
+  "inline-flex h-9 w-9 items-center justify-center rounded-full border border-[#f6c37a] bg-[#fff3e0] text-xs font-bold uppercase tracking-wide text-[#9a4a00] transition duration-200 focus:outline-none focus:ring-2 focus:ring-[#d97706] focus:ring-offset-2";
+---
+
+{
+  isLinked ? (
+    <a
+      href={targetUrl}
+      class={`${classes} hover:border-[#d97706] hover:bg-[#ffe4bd]`}
+      aria-label={`Ver en ${targetLang === "es" ? "español" : "inglés"}`}
+      title={`Ver en ${targetLang === "es" ? "español" : "inglés"}`}
+    >
+      {label}
+    </a>
+  ) : (
+    <span
+      class={`${classes} cursor-default opacity-70`}
+      aria-label={`No hay traducción disponible en ${targetLang === "es" ? "español" : "inglés"}`}
+      title={`No hay traducción disponible en ${targetLang === "es" ? "español" : "inglés"}`}
+    >
+      {label}
+    </span>
+  )
+}

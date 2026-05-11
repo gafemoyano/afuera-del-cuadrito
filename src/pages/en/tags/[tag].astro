@@ -2,10 +2,7 @@
 import Base from "@/layouts/Base.astro";
 import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import {
-  DEFAULT_LANGUAGE,
-  getPostsByLanguage,
-} from "@/lib/utils/languageHelpers";
+import { getPostsByLanguage } from "@/lib/utils/languageHelpers";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import taxonomyFilter from "@/lib/utils/taxonomyFilter";
 import { humanize } from "@/lib/utils/textConverter";
@@ -14,7 +11,7 @@ export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
   const tags = [
     ...new Set(
-      getPostsByLanguage(posts, DEFAULT_LANGUAGE)
+      getPostsByLanguage(posts, "en")
         .map((post) => post.data.tags)
         .flat(),
     ),
@@ -30,8 +27,8 @@ export async function getStaticPaths() {
 const { tag } = Astro.params;
 
 const posts = await getSinglePage("posts");
-const languagePosts = getPostsByLanguage(posts, DEFAULT_LANGUAGE);
-const filterByTags = taxonomyFilter(languagePosts, "tags", tag);
+const englishPosts = getPostsByLanguage(posts, "en");
+const filterByTags = taxonomyFilter(englishPosts, "tags", tag);
 const sortedPosts = sortByDate(filterByTags);
 
 const title = humanize(tag || "");
@@ -40,7 +37,7 @@ const title = humanize(tag || "");
 <Base title={title || "Tag"}>
   <div class="section">
     <div class="container">
-      <p class="text-center text-2xl mb-4">Entradas de</p>
+      <p class="text-center text-2xl mb-4">Showing posts from</p>
       <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
       <Posts posts={sortedPosts} fluid={false} />
     </div>

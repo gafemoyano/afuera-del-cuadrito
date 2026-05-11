@@ -1,10 +1,7 @@
 ---
 import Base from "@/layouts/Base.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import {
-  DEFAULT_LANGUAGE,
-  getPostsByLanguage,
-} from "@/lib/utils/languageHelpers";
+import { getPostsByLanguage } from "@/lib/utils/languageHelpers";
 import { humanize } from "@/lib/utils/textConverter";
 
 import { FaHashtag } from "react-icons/fa";
@@ -12,7 +9,7 @@ import { FaHashtag } from "react-icons/fa";
 const posts = await getSinglePage("posts");
 const tags = [
   ...new Set(
-    getPostsByLanguage(posts, DEFAULT_LANGUAGE)
+    getPostsByLanguage(posts, "en")
       .map((post) => post.data.tags)
       .flat(),
   ),
@@ -28,10 +25,10 @@ const tags = [
           tags.map((tag) => (
             <li class="inline-block">
               <a
-                href={`/tags/${tag}`}
-                class="px-4 py-2 text-primary font-semibold text-xl  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
+                href={`/en/tags/${tag}`}
+                class="px-4 py-2 text-primary font-semibold text-xl transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2 duration-500 font-primary"
               >
-                <FaHashtag className="mr-1 text-primary  transition" />
+                <FaHashtag className="mr-1 text-primary transition" />
                 {humanize(tag || "")}
               </a>
             </li>

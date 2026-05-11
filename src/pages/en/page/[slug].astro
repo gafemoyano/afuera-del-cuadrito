@@ -4,15 +4,14 @@ import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
 import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import {
-  DEFAULT_LANGUAGE,
-  getPostsByLanguage,
-} from "@/lib/utils/languageHelpers";
+import { getPostsByLanguage } from "@/lib/utils/languageHelpers";
 import { sortByDate } from "@/lib/utils/sortFunctions";
+
+const currentLang = "en" as const;
 
 export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
-  const languagePosts = getPostsByLanguage(posts, DEFAULT_LANGUAGE);
+  const languagePosts = getPostsByLanguage(posts, currentLang);
   const totalPages = Math.ceil(
     languagePosts.length / config.settings.pagination,
   );
@@ -30,7 +29,7 @@ export async function getStaticPaths() {
 
 const { slug } = Astro.params;
 const posts = await getSinglePage("posts");
-const languagePosts = getPostsByLanguage(posts, DEFAULT_LANGUAGE);
+const languagePosts = getPostsByLanguage(posts, currentLang);
 const sortedPosts = sortByDate(languagePosts);
 const totalPages = Math.ceil(languagePosts.length / config.settings.pagination);
 const currentPage = slug && !isNaN(Number(slug)) ? Number(slug) : 1;
@@ -43,7 +42,11 @@ const currentPosts = sortedPosts.slice(indexOfFirstPost, indexOfLastPost);
   <section class="section">
     <div class="container">
       <Posts className="mb-16" posts={currentPosts} fluid={false} />
-      <Pagination totalPages={totalPages} currentPage={currentPage} />
+      <Pagination
+        totalPages={totalPages}
+        currentPage={currentPage}
+        section="en"
+      />
     </div>
   </section>
 </Base>

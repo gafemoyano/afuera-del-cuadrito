@@ -4,14 +4,12 @@ import Base from "@/layouts/Base.astro";
 import Pagination from "@/layouts/components/Pagination.astro";
 import Posts from "@/layouts/Posts.astro";
 import { getSinglePage } from "@/lib/contentParser.astro";
-import {
-  DEFAULT_LANGUAGE,
-  getPostsByLanguage,
-} from "@/lib/utils/languageHelpers";
+import { getPostsByLanguage } from "@/lib/utils/languageHelpers";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 
+const currentLang = "en" as const;
 const posts = await getSinglePage("posts");
-const languagePosts = getPostsByLanguage(posts, DEFAULT_LANGUAGE);
+const languagePosts = getPostsByLanguage(posts, currentLang);
 const sortedPosts = sortByDate(languagePosts);
 const totalPages = Math.ceil(languagePosts.length / config.settings.pagination);
 const currentPosts = sortedPosts.slice(0, config.settings.pagination);
@@ -21,7 +19,7 @@ const currentPosts = sortedPosts.slice(0, config.settings.pagination);
   <section class="section">
     <div class="container">
       <Posts posts={currentPosts} className="mb-16" />
-      <Pagination currentPage={1} totalPages={totalPages} />
+      <Pagination currentPage={1} totalPages={totalPages} section="en" />
     </div>
   </section>
 </Base>
