@@ -11,7 +11,7 @@ const currentLang = "en" as const;
 
 export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
-  const languagePosts = getPostsByLanguage(posts, currentLang);
+  const languagePosts = getPostsByLanguage(posts, "en");
   const totalPages = Math.ceil(
     languagePosts.length / config.settings.pagination,
   );
