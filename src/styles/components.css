@@ -32,6 +32,10 @@
   aspect-ratio: 2 / 1;
 }
 
+.image-frame--featured {
+  aspect-ratio: 936 / 482;
+}
+
 .image-frame--portrait {
   aspect-ratio: 3 / 4;
 }
@@ -47,6 +51,14 @@
 
 .image-frame__img {
   @apply h-full w-full object-cover;
+}
+
+.post-card-title {
+  @apply text-xl leading-tight md:text-2xl;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 /* image cover */

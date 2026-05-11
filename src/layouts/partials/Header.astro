@@ -17,6 +17,21 @@ export interface NavigationLink {
 }
 
 const { main }: { main: NavigationLink[] } = menu;
+const pathname = Astro.url.pathname.replace(/\/$/, "") || "/";
+const currentLang =
+  pathname === "/en" || pathname.startsWith("/en/") ? "en" : "es";
+
+const englishNavigation: Record<string, NavigationLink> = {
+  "/": { name: "Home", url: "/en" },
+  "/about": { name: "About", url: "/en/about" },
+  "/tags": { name: "Categories", url: "/en/tags" },
+  "/contact": { name: "Contact", url: "/en/contact" },
+};
+
+const navigation: NavigationLink[] =
+  currentLang === "en"
+    ? main.map((item) => englishNavigation[item.url] ?? item)
+    : main;
 ---
 
 <header class="header pt-6">
@@ -56,7 +71,7 @@ const { main }: { main: NavigationLink[] } = menu;
       class="navbar-nav order-3 hidden w-full md:order-1 md:flex md:w-auto"
     >
       {
-        main.map((menu) => (
+        navigation.map((menu) => (
           <>
             {menu.hasChildren ? (
               <li class="nav-item nav-dropdown group relative cursor-pointer">
@@ -91,8 +106,8 @@ const { main }: { main: NavigationLink[] } = menu;
       <a
         class="inline-block cursor-pointer p-2 text-xl text-dark transition hover:text-primary"
         href="/search"
-        title="Buscar"
-        aria-label="Abrir la búsqueda"
+        title={currentLang === "en" ? "Search" : "Buscar"}
+        aria-label={currentLang === "en" ? "Open search" : "Abrir la búsqueda"}
       >
         <IoSearch />
       </a>
