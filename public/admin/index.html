@@ -49,34 +49,80 @@
     </style>
   </head>
   <body>
+    <!-- TEMP DIAGNOSTIC: prints load/init status visibly so a blank admin can be
+         debugged from a phone without devtools. Remove once the issue is found. -->
+    <pre id="diag" style="font:14px/1.5 monospace;white-space:pre-wrap;word-break:break-word;padding:16px;margin:0;color:#111;background:#fff">starting diagnostics…</pre>
+    <script>
+      window.log = function (m) {
+        var d = document.getElementById("diag");
+        if (d) d.textContent += "\n" + m;
+      };
+      (function () {
+        var d = document.getElementById("diag");
+        if (d) d.textContent = "Sveltia admin diagnostics\nURL: " + location.href;
+      })();
+      window.addEventListener("error", function (e) {
+        window.log(
+          "❌ JS error: " +
+            (e.message || (e.error && e.error.message) || e.error) +
+            (e.filename ? " @ " + e.filename + ":" + e.lineno : "")
+        );
+      });
+      window.addEventListener("unhandledrejection", function (e) {
+        window.log("❌ promise rejected: " + (e.reason && e.reason.message ? e.reason.message : e.reason));
+      });
+      var SCRIPT = "https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js";
+      fetch(SCRIPT)
+        .then(function (r) { window.log("CDN script fetch: HTTP " + r.status + " (" + r.headers.get("content-type") + ")"); })
+        .catch(function (e) { window.log("❌ CDN script fetch failed: " + e); });
+      fetch("/admin/config.yml")
+        .then(function (r) { window.log("config.yml fetch: HTTP " + r.status + " (" + r.headers.get("content-type") + ")"); return r.text(); })
+        .then(function (t) { window.log("config.yml starts with: " + (t.split("\n").find(function (l) { return l.trim() && l.trim()[0] !== "#"; }) || "(empty)")); })
+        .catch(function (e) { window.log("❌ config.yml fetch failed: " + e); });
+    </script>
     <script>
       window.CMS_MANUAL_INIT = true;
     </script>
-    <script src="https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js"></script>
+    <script
+      src="https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js"
+      onload="window.log('✅ CDN script loaded; typeof CMS = ' + (typeof CMS))"
+      onerror="window.log('❌ CDN <script> failed to load (onerror)')"
+    ></script>
     <script>
-      CMS.registerEditorComponent({
-        id: "align-right",
-        label: "Right-aligned block",
-        icon: "format_align_right",
-        fields: [{ name: "content", label: "Content", widget: "markdown" }],
-        pattern:
-          /^<div class="content-align-right">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
-        toBlock: ({ content }) =>
-          `<div class="content-align-right">\n${content}\n</div>`,
-      });
+      try {
+        window.log("after <script> tag: typeof CMS = " + (typeof CMS));
+        if (typeof CMS === "undefined") {
+          window.log("⛔ CMS is undefined — the CDN script did not define it. Stopping.");
+        } else {
+          CMS.registerEditorComponent({
+            id: "align-right",
+            label: "Right-aligned block",
+            icon: "format_align_right",
+            fields: [{ name: "content", label: "Content", widget: "markdown" }],
+            pattern:
+              /^<div class="content-align-right">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+            toBlock: ({ content }) =>
+              `<div class="content-align-right">\n${content}\n</div>`,
+          });
 
-      CMS.registerEditorComponent({
-        id: "indent-xl",
-        label: "Large indented block",
-        icon: "format_indent_increase",
-        fields: [{ name: "content", label: "Content", widget: "markdown" }],
-        pattern:
-          /^<div class="content-indent-xl">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
-        toBlock: ({ content }) =>
-          `<div class="content-indent-xl">\n${content}\n</div>`,
-      });
+          CMS.registerEditorComponent({
+            id: "indent-xl",
+            label: "Large indented block",
+            icon: "format_indent_increase",
+            fields: [{ name: "content", label: "Content", widget: "markdown" }],
+            pattern:
+              /^<div class="content-indent-xl">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+            toBlock: ({ content }) =>
+              `<div class="content-indent-xl">\n${content}\n</div>`,
+          });
 
-      CMS.init();
+          window.log("✅ editor components registered; calling CMS.init()…");
+          CMS.init();
+          window.log("✅ CMS.init() returned (CMS should now take over the page)");
+        }
+      } catch (err) {
+        window.log("❌ init threw: " + (err && err.stack ? err.stack : err));
+      }
     </script>
   </body>
 </html>
