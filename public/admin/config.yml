@@ -8,6 +8,11 @@ backend:
   name: github # Change to your backend (github, gitlab, gitea)
   repo: gafemoyano/afuera-del-cuadrito # Replace with your repository
   branch: master # or master, depending on your default branch
+  # Pin the Netlify OAuth site_id to the real site. Without this, Sveltia uses
+  # window.location.hostname as the site_id, so logging in from a deploy-preview
+  # URL (deploy-preview-N--*.netlify.app) sends an unrecognized site_id and auth
+  # fails. Pinning it lets the admin authenticate from previews and production.
+  site_domain: afueradelcuadrito.com
 
 # Media files
 media_folder: "public/images/uploads" # Where uploaded files will be stored
