@@ -49,11 +49,9 @@
     </style>
   </head>
   <body>
-    <script>
-      window.CMS_MANUAL_INIT = true;
-    </script>
-    <script src="https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js"></script>
-    <script>
+    <script type="module">
+      import CMS from "https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js";
+
       CMS.registerEditorComponent({
         id: "align-right",
         label: "Right-aligned block",
