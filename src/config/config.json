@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Afuera del Cuadrito",
-    "base_url": "https://afueradelcuadrito.netlify.app",
+    "base_url": "https://afueradelcuadrito.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon-new.png",

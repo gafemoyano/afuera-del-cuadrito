@@ -14,7 +14,7 @@ media_folder: "public/images/uploads" # Where uploaded files will be stored
 public_folder: "/images/uploads" # Public URL path for uploaded files
 
 # Site configuration
-site_url: https://afueradelcuadrito.netlify.app # Replace with your site URL
+site_url: https://afueradelcuadrito.com
 logo:
   src: /images/logo.png
 
@@ -169,4 +169,4 @@ editor:
   preview: true
 
 # Display URL for site preview
-display_url: https://afueradelcuadrito.netlify.app # Replace with your site URL
+display_url: https://afueradelcuadrito.com

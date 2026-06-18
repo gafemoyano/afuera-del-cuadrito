@@ -1,3 +1,6 @@
+---
+export const prerender = true;
+---
 <!doctype html>
 <html>
   <head>
@@ -54,7 +57,7 @@
       window.CMS_MANUAL_INIT = true;
     </script>
     <!-- Include SveltiaCMS - the modern successor to NetlifyCMS/DecapCMS -->
-    <script is:inline src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script is:inline src="https://unpkg.com/@sveltia/cms@0.167.2/dist/sveltia-cms.js"></script>
     <script is:inline>
       CMS.registerEditorComponent({
         id: "align-right",
