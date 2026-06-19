@@ -74,7 +74,6 @@ _¿Nos hemos sentado juntos, vecino con vecino, y respirado en el espacio del sa
 
 _En el espacio de soltar todas las interpretaciones y explicaciones, aquí y ahora, es donde el espíritu puede respirar._
 
-
 Si no es Colombia, tampoco Estados Unidos, si esto es global, como no me cabe duda de que lo es, ¿qué nos está pidiendo esta herida? 
 
 \*
