@@ -20,7 +20,7 @@ const postsCollection = defineCollection({
     title: z.string(),
     meta_title: z.string().optional(),
     description: z.string().optional(),
-    date: z.date().optional(),
+    date: z.coerce.date().optional(),
     image: z.string().optional(),
     tags: z.array(z.string()).default([]),
     draft: z.boolean().optional(),
