@@ -8,7 +8,7 @@ import {
 } from "@/lib/utils/languageHelpers";
 import { sortByDate } from "@/lib/utils/sortFunctions";
 import taxonomyFilter from "@/lib/utils/taxonomyFilter";
-import { humanize } from "@/lib/utils/textConverter";
+import { humanize, slugify } from "@/lib/utils/textConverter";
 
 export async function getStaticPaths() {
   const posts = await getSinglePage("posts");
@@ -22,7 +22,7 @@ export async function getStaticPaths() {
 
   return tags.map((tag) => {
     return {
-      params: { tag },
+      params: { tag: slugify(tag) },
     };
   });
 }

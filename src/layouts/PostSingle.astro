@@ -69,7 +69,7 @@ const formattedDate = dateFormat(date);
               tags.map((tag: string, index: number) => (
                 <li class="inline-block">
                   <a
-                    href={`/tags/${tag}`}
+                    href={`/tags/${slugify(tag)}`}
                     class:list={["py-2 pr-4 text-primary font-semibold text-xl transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2 duration-500 font-primary", index === 0 ? "pl-0" : "pl-4"]}
                   >
                     <FaHashtag className="mr-1 text-primary  transition" />

@@ -2,7 +2,7 @@
 import config from "@/config/config.json";
 import dateFormat from "@/lib/utils/dateFormat";
 import { getPostUrl } from "@/lib/utils/languageHelpers";
-import { humanize, plainify } from "@/lib/utils/textConverter";
+import { humanize, plainify, slugify } from "@/lib/utils/textConverter";
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { BiCalendarEdit } from "react-icons/bi";
@@ -60,7 +60,7 @@ const { className, posts, fluid } = Astro.props;
                   {post.data.tags.map((tag) => (
                     <li class="inline-block">
                       <a
-                        href={`/tags/${tag}`}
+                        href={`/tags/${slugify(tag)}`}
                         class="px-4 py-2 text-primary font-semibold  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
                       >
                         {humanize(tag || "")}

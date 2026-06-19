@@ -5,7 +5,7 @@ import {
   DEFAULT_LANGUAGE,
   getPostsByLanguage,
 } from "@/lib/utils/languageHelpers";
-import { humanize } from "@/lib/utils/textConverter";
+import { humanize, slugify } from "@/lib/utils/textConverter";
 
 import { FaHashtag } from "react-icons/fa";
 
@@ -28,7 +28,7 @@ const tags = [
           tags.map((tag) => (
             <li class="inline-block">
               <a
-                href={`/tags/${tag}`}
+                href={`/tags/${slugify(tag)}`}
                 class="px-4 py-2 text-primary font-semibold text-xl  transition ease-in-out hover:text-secondary flex items-center group relative hover:border-b-2  duration-500 font-primary"
               >
                 <FaHashtag className="mr-1 text-primary  transition" />
