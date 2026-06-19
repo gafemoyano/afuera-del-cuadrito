@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>Content Manager - Afuera del Cuadrito</title>
-    <link rel="icon" href="/favicon.png" />
+    <link rel="icon" href="/images/favicon.png" />
     <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url" />
     <style>
       /* Fix cursor */
@@ -59,7 +59,10 @@
         fields: [{ name: "content", label: "Content", widget: "markdown" }],
         pattern:
           /^<div class="content-align-right">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+        fromBlock: (match) => ({ content: match.groups.content }),
         toBlock: ({ content }) =>
+          `<div class="content-align-right">\n${content}\n</div>`,
+        toPreview: ({ content }) =>
           `<div class="content-align-right">\n${content}\n</div>`,
       });
 
@@ -70,7 +73,10 @@
         fields: [{ name: "content", label: "Content", widget: "markdown" }],
         pattern:
           /^<div class="content-indent-xl">\s*(?<content>[\s\S]+?)\s*<\/div>$/m,
+        fromBlock: (match) => ({ content: match.groups.content }),
         toBlock: ({ content }) =>
+          `<div class="content-indent-xl">\n${content}\n</div>`,
+        toPreview: ({ content }) =>
           `<div class="content-indent-xl">\n${content}\n</div>`,
       });
 
