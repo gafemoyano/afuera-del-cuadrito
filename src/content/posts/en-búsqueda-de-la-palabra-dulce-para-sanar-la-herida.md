@@ -134,7 +134,7 @@ Son tiempos para imprimir tercamente la cualidad de la vida y mantener siempre a
 
 Que, como dijo Paulo Freire: “_Nadie puede ser auténticamente, negando que otros sean_.”
 
-Cuando el discurso se construye sobre un otro al que dejar por fuera —la izquierda, las mujeres, los migrantes, la diversidad sexual, los animales, sí, también los animales y el planeta—, ese es un camino que va hacia un callejón cerrado. Como anticipa john a. powell, director del centro de investigación en Berkeley y un pensador y guía espiritual que les recomiendo leer: “_Un "nosotros limitado" nunca podrá sostener una paz real._”
+Cuando el discurso se construye sobre un otro al que dejar por fuera —la izquierda, las mujeres, los migrantes, la diversidad sexual, los animales, sí, también los animales y el planeta—, ese es un camino que va hacia un callejón cerrado. Como anticipa john a. powell, director del centro de investigación en Berkeley y un pensador y guía espiritual que les recomiendo [leer](https://belonging.berkeley.edu/power-bridging): “_Un "nosotros limitado" nunca podrá sostener una paz real._”
 
 Llegamos a la semana de las elecciones y mi voto, para sorpresa de nadie, será por Cepeda. No voto por él porque sea una defensora del proyecto político que representa el Pacto Histórico o del gobierno de Petro. Voto por él porque es evidente que la otra opción se edifica en un discurso de odio de un nosotros limitado, y así no se puede imprimir la cualidad de la vida. 
 
