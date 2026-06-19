@@ -5,7 +5,7 @@ meta_title: En búsqueda de la palabra dulce para sanar la herida
 description: |-
   Hace días empecé a buscar palabras y no las he podido encontrar. Anduve semanas metiéndome en callejones cerrados y frustrándome con cada vuelta. Si las palabras son flores, de mí han estado saliendo marchitas.
   Escribir, en este momento, es para mí un acto para la vida: una alquimia donde se encuentran mi cuerpo, mi estado emocional y algo más. Un espacio donde me ofrezco y de donde nazco, no solo por gusto, sino por convicción de que, escribiendo, algo puede cambiar.
-date: 2026-06-19T16:37
+date: 2026-06-19T16:55
 image: /images/uploads/Portadas-3.png
 tags:
   - Herida
